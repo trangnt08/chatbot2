@@ -1,0 +1,28 @@
+0. Giá (sản phẩm, phụ kiện, thay linh kiện,...)
+1. Hướng dẫn sử dụng, cách thức thao tác (cài phần mềm,...)
+2. Số lượng sp (còn hay hết)
+3. So sánh 2 sản phẩm
+4. Chế độ giao hàng
+5. Chế độ bảo hành
+6. Khuyến mãi
+7. Thanh toán (tại cửa hàng, thẻ,...)
+8. Trả góp 
+9. Phản ánh chất lượng
+10. Thông tin, chức năng sp
+11. Yêu cầu lien he
+12. Hủy đơn hàng
+14. Đổi máy, trả máy
+15. Góp ý
+16. Đánh giá tích cực
+17. Phụ kiện (loại gì)
+18. Khác
+20. Đặt trước máy
+21. PMH có trừ trực tiếp vào máy ko
+22. Thời gian có hàng
+23. Thu mua sp
+24. Chào hỏi
+25. Muốn mua máy
+26. Thời gian nhận được hàng
+27. Dia diem
+30. none
+31. màu

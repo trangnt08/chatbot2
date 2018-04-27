@@ -1,0 +1,529 @@
+ accuracy: 0.727
+18	2	cho e hồi n105 2016 con hắn ở đà lạt k à 
+1	3	cho em hỏi mày này và máy nokia 105 2sim ngoài tính_năng 2sim ra thì khác_nhau chỗ nào v à 
+18	4	đơn_hàng trên 500k shop mới ship hả 
+2	22	hết hàng bao_lâu hẫng về bến_tre laì qtv 
+10	17	máy này sạc chui trốn hay micro 
+18	10	đánh_bạn lưu được bao_nhiêu số vậy fpt xin cảm_ơn 
+10	17	sản_phẩm này có thẻ_nhớ hơn ạ 
+1	15	hình_ảnh máy 1 sim sạo lại là ảnh của máy 2 sim nhỉ đề_nghị quản_trị viên up anh cho chuẩn ! 
+0	18	mua củ thì sao ad 
+18	10	máy này nhận tin có_dấu được không 
+18	10	danh_bạ lưu được bao_nhiêu số ạ 
+10	15	tìm moi mắt không thấy thông_tin gì về sản_phẩm ngoài cái tên nokia 130 nạn 
+9	1	mình mua điện_thoại nokia 105 này được hơn 1 tháng rất hay bị mất sóng có_khi đang gọi bí mất sóng ngắt cuộc_gọi luôn cho hỏi mày bị gì và khắc_phục được không 
+18	10	shop ơi máy này nhận tin có gõ dấu tiếng_việt được không thanks_shop 
+18	10	shop ơi máy này nhận tin có gõ dấu tiếng_việt được không thanks_shop 
+18	1	chào ad ! mình có mua nokia 105 tại fpt tình_trạng máy khi gọi_thoại ạm_thanh bị vọng lại_giống như mở loa ngoài xin ad hướng_dẩn giúp ! 
+18	14	dạ máy của em sao rớt nhẽ là nó mất nguồn vậy em có_thể đổi trả được không ạ ! 
+10	9	shop ơi đt này rơi và chạm với nền_đất có sử_dụng_được lâu không ạ vì ba mình hay đi công_trình nên rơi đt_miệt shop có ông hay loại đt khac bén hơn không xin cảm_ơn 
+18	14	qtv ơi giờ e muốn sang màu xanh_cỏ đã không 
+18	2	cho e hơi chút máy nokia 105 2017 ở fpt_shop núi_đôi thi trấn sóc_sơn có không ạ 
+10	18	cho mình hỏi mày này loa ngoài nam ở đâu vậy 
+10	2	chào ở buôn_ma_thuột đắk_lắk có điện_thoại nokia 105 dual sim 2017 không vậy 
+0	17	chào ad bên mới có bán cục sạc cho nokia 105 2 sim không giá bao_nhiêu 
+18	10	điện_thoại này có chắc nàng nghe nhạc không ạ 
+18	12	mình đặt máy khác giờ hủy để mua máy này được không tại máy mình đặt đang đợi hàng chuyển từ nơi_khác về 
+10	3	hai sẽ giống_nhau mà s có 349 và 359k v qtv 
+2	18	máy này mô việt_nam phải_không fpt 
+2	4	bên mình có ship không ạ 
+10	2	máy_này 2 sim hay 1 sim vậy shop ở hải_phòng có không 
+18	15	mình vừa mua xong ra khỏi cửa_hàng quay vào đổi_lấy cái 2 sim mà không_được 
+18	15	sao ở điện_biên và lai_châu fpt toàn ở thành_phố thôi nhỉ ở huyện và thị_xã không_có muốn đi điện_thoại ở fpt thì_phải đi hơn trăm cây 
+2	4	cái_này tối mùa có giao hàng_không vậy 
+2	18	có cửa_hàng fpt nó gắn bọ họ không bạn 
+1	18	mình đang_dùng masstel a260 nhưng không xóa được tin_nhắn xóa mấy báo không thực_hiện được là sao_vậy shop 
+18	10	máy có danh_bạ bao_nhiêu số vậy shop 
+18	10	điện_thoại có mạng không ạ 
+2	27	fpt bắc_ninh còn hàng này không ạ cho e cụ_thể địa_chỉ luôn à 
+18	1	mình mua máy đổi trả trong máy có_sẵn tin_nhắn của người trước nhưng xoa hoài không_được lấy búa đập liễu nó có hết không shop 
+18	10	shop cho mình hỏi máy này pin dùng được mấy tiếng vậy shop mà mình sao_không dùng mà khoảng 4 đến 5tieng là hết vậy shop 
+18	10	xin_chào shop cho tôi hỏi mày này có ẩn được ngày_giờ và ẩn tên nhà mạng được không vậy hả shop 
+10	2	cho e hỏi ạ sao máy này không_có phần cài_đặt cấu_hình ạ 
+10	18	máy báo không mở camera được 
+16	15	mình đã mua sản_phẩm vivo v5 này rồi quả_thật pin không như mong_đợi 
+0	8	ad ơi wiko xã giá 399000 có trả_góp ở tl gặp dum e 
+18	24	xin_chào 
+18	5	máy mà bị vỡ nằm hình có để hỗ chờ gì không ạ 
+18	9	máy mình mua được mấy tháng rồi nó có tình_trạng là tự_nhiên sập nguồn là bị ls ạ 
+18	1	điện_thoại em chỉnh âm_lượng phương_tiện lớn để xem phim nhưng một_lúc sau thì nó tự_động nhỏ dần em chỉnh máy lần rồi nhưng nó vẫn như_vậy thì_phải làm_sao ạ 
+8	6	trả_góp có quà không ad 
+18	17	cho mày hỏi nếu pin bị chai có_thể thấy được ở ạ 
+0	3	cho mình hỏi vivo 1601 và vivo v5 là một sản_phẩm phải_không 
+17	2	shop có ốp_lưng của vivo v5 không 
+10	18	mày này cho vào nước có sao_không = ) ) 
+10	18	cho e hồi v5 sử_dụng chip ngang chip nào của sam sũng vậy 
+10	9	tại_sao sản_phẩm này chơi liên_quân lại lag đến như_vậy 
+10	18	ốp_lưng của máy vivo v5s có_thể sử_dụng cho máy này được không ạ 
+9	18	tôi mua vivo v5 được 15 ngày đang xài thì máy bảo bởi virus và pin bị hỏng mong được tư_vấn 
+10	30	có_thể nho256gb 
+10	30	vào youtube tìm_kiếm vivo v5 chưa 
+0	30	vào youtube gõ tìm_kiếm vivo v5 có chữ trực_tiếp sự_kiện ra_mắt vivo v5 gia đó bao_nhiêu gium giùm mình nhé 
+16	30	vào tìm_kiếm vivo v5 là có đấy 
+10	30	vào youtube chưa 
+18	30	bùi anh_tuấn gọ vào youtube tìm_kiếm vivo v5 vào chỗ 01 / 12 / 2016 có chuông đổ_đầy coi thử gia đó bao_nhiêu giùm mình nhé 
+18	30	bùi anh_tuấn có biết chương_trình đó không 
+10	0	01 / 12 / 2016 có truyền_hình trực_tiếp phát lên kênh ý tivi_vivo v5 gía bao_nhiêu vậy 
+10	9	diện_thoại này có sai ngôn không z 
+10	18	vivo v5 xai chip của hãng nào ạ 
+10	18	vivo v5s gọi_là plus đúng không 
+0	18	vivo v5s co_thể nhớ 256gb 
+10	9	tại s máy này chỉ liên_quân vẫn giật lag vậy 
+2	18	con nai con hả bạn 
+10	2	vivo v5 plus có không 
+10	18	chơi liên_quân sao mấy thanh 
+23	14	fpt_shop có mua_lại vivo cũ không ạ 
+0	3	vivo v5 giá 5 990 000 vivo v5s giá 6 690 000 sao đến fpt nhân_viên lại kêu là vivo v5 i chàng vivo v5s không khác chút_nào giá cũng giống_nhau là 6 690 000 
+2	17	qtv cho mình hỏi vivo v5 đã kinh_doanh kính cường_lực chưa 
+18	15	mình mua vivo v5 được hơn 2 tháng mình thấy vivo sài rất êm selfie hay_sao cũng cảm_thấy không thua_kém những máy khác nhưng sao trong_nước các phụ_kiện hay gì có liên_quan đến vivo thì rất_ít được bán hay được biết đến lúc mua mấy người nhân_viên cũng khuyên mình nên mua những hãng khác nhưng mình lại tin_tưởng vivo giờ mình lại cảm_thấy thất_vọng sao mọi_người không quảng_bá nó nhiều_hơn để được biết đến mình thật_sự thấy thất_vọng : ( mình nghĩ đây chỉ_là góp í chứ không chê_bai hẵng hay gì cả 
+1	18	tại sau_khi cài_đặt những apple trên google mình không cài_đặt được mặc_dù đã bật không_rõ nguồn_gốc bấm cái đặt không_được mà bấm_huy được là sau ạ 
+10	18	máy sản_xuất vào thân mấy 
+6	18	cho em hỏi mua đặt_mua online với mua tại cửa_hàng fpt có_khác gì nhau không ạ 
+1	18	cho e hổi là tại_sao vivo v5 lại có đèn lúc_nào cũng chớp tắt vay ạ mà không_biết có tắt được không ạ 
+6	8	trả_góp có nhận quà gì không 
+9	1	mình mới mua vivo v5 được 1 ngày thì tự_nhiên bị mất hết âm_thận : không nghe gọi không nghe nhạc không phát video được mặc_dù mình không làm rơi phải khởi_động lại máy mới nghe_được cho mình hỏi như_thế là bị lỗi gì cần sửa_chữa gì không 
+18	30	mình 
+1	2	có cái vivo v5 nào cứ ở xuyên_mộc bà tô không vậy ad 
+18	21	pmh 500 000d sẽ được trừ trực_tiếp vào sự khi ế mua ở fpt_shop phải_không ạ và khi ế mua trực_tiếp tại fpt_shop thì_có được tại : lời tiểu v có đây gậy chụp_ảnh và giá đỡ điện_thoại phải_không ạ 
+6	5	trong bộ quà khuyến_mãi của em loa tiểu không phát nhạc được thì_có được hỗ_trợ đổi lại không ạ 
+18	21	mình mới mua maybaduoc tặng pmh500sao không_được trừ trực_tiếp vào sản_phẩm mà phải mua phụ_kiện vay 
+2	18	trên_đây để cửa_hàng ở quận 2 nguyễn thị định còn hàng màu gold thì tức_mình tới đó sẽ mua được đúng không ạ 
+21	6	em đặt_hàng qua mạng giao tận nhà_có được trừ trực_tiếp 500k vào sự không 
+21	2	vivo v5 gold còn ở cũ hàng quận 1 không ạ nếu e đất sẽ trên web nhận và trả_tiền tại_nhà thì_có được trừ pmh 500k ngay vào sự không 
+6	18	có_thể giảm_giá không 
+2	1	cho e hỡi vivo v5 ngoài phong chủ hệ_thống còn phòng chủ nào không ad 
+10	1	cho hỏi hệ_điều_hành funtouch_os của máy có cài được các api của google_play_store không vậy 
+2	31	shop đà lạt còn máy không c nếu còn thì_là bản màu gì vậy ạ 
+2	30	hàng cũ 
+2	11	mình cần máy màu_đen ở ninh kiều cần_thơ lh_phone_number nếu có hàng nhà ad 
+2	4	mình muốn mua 1 máy màu_đen mình ở củ_chi vậy shop luân_chuyển sản_phẩm về cử_chi hay_sao ấy 
+9	18	cho em hỏi có thấy màn_hình không của em bị cấn hu màn_hình nhưng vẫn nghe gọi được 
+2	25	e muốn mua máy cũ có đã không ạ 
+1	18	nokia 105 2 sim em mua cách đây 4 tháng tình_hình là đây sạc bị chuột cắn_đứt mà điện_thoại lại hết pin nên em mới lấy sạc khác gán cho điện_thoại nhưng sạc 1 tiếng mà nó vẫn không sạc được vậy là do sạc hay do pin điện_thoại vậy shop 
+9	18	mình mới mua máy hôm_qua để 1 tiếng máy_tự_động tắt nguồn cứ 1 tiếng_là tắt nguồn là sao qtv 
+11	12	em hiện_tại ở có nhu_cầu xem hàng nữa nhờ fpt hủy đơn giữ hàng cho em cái số điện_thoại phone_number 
+10	2	cái_này ở fpt_shop trang bằng tay ninh còn không bạn 
+1	18	quen mà khóa phím thì làm_sao ạ 
+14	18	mình mới mua sản_phẩm được 1 hôm thì máy tắt nguồn 2 lần nhue khỉ đem xuống ch thỉ máy không bị nữa cho_nên giờ không_biết làm_sao 
+14	18	cho e hơi e_e mua máy này rui giờ muốn bán lại shop thâu vo bao_nhiêu ạ có cần hộp và sạc không ạ hay chỉ đem máy tới thui 
+2	18	shop ơi ship tôi máy nokia 105 dual màu_đen nhé 
+1	7	mình muốn mua 01 máy này 01sim vina 01 sim mới nhờ lắp sim vào máy và kích_hoạt luôn giao_hàng trả_tiền được không 
+10	18	danh_bạ máy này lưu được bộ số vậy nhỉ 
+18	15	mua_cái này mừng chưa hết giờ bức mình ghê mấy cái game vớ_vẫn nở tự_động kích_hoạt rồi tổng_đài 8708 tự gửi tin về rồi thu phí 15n muốn hỏi trường_hợp này phải làm_sao 
+2	18	fpt tại hưng hà thái_bình có máy này đổi trả không và có thì_có giao hàng_không 
+17	18	có thay vỏ điện_thoại được không ạ 
+1	18	cho mình hỏi mật_mã để khôi_phục mày với ạ muốn cài_đặt khóa máy mà không_thể biết mật_mã là bao_nhiêu và cũng không_được nói_gì tới quay_số nhỉ 
+18	6	ê vừa mua mà những không nghe nhân_viên nói đến khuyến_mại ạ a 
+10	18	có game không 
+0	18	cho hỏi sản_phẩm này đánh bà lưu_trữ được bao_nhiêu so vậy ạ 
+10	18	điện_thoại này của việt_nam sản_xuất phải_không 
+10	18	điện_thoại này lưu được bản tin_nhắn vậy 
+8	7	sản_phẩm này có hỗ_trợ trả sau không ad 
+18	1	cho hỏi việc tìm_kiếm danh_bạ trên điện_thoại như_thế_nào có phải đánh đúng thứ_tự tên mình đã lưu_không hay chỉ_cần đánh các ký_tự có trong tên mình đã lưu là vẫn tìm_được và có_thế chuyên_đổi danh_bạ từ smartphone sang được không 
+10	18	điện_thoại fpt b2 có thẻ_nhớ không bạn 
+2	10	máy có online_facebook đã không ạ 
+1	3	cho e hổi giữa cốc sạc có nguồn vào 5a nguồn ra 2a và cốc sạc nguồn vào 5a nguồn ra 2 4a thì cốc sạc nao sạc nhanh hơn ạ 
+17	18	miếng dán màn_hình có_sẵn trong máy có bán không ạ bị xước nhiều nên muốn thay 
+9	18	qtv cho em hỏi f3 của em xem video trên facebook với youtube lúc thì video rất rõ lúc thì mở liệu đây có phải lỗi không và cách khắc_phục như thế_nào ạ 
+6	2	cho hỏi là f3 ở fpt biên_hòa còn không z có giảm_giá gì không z 
+8	0	ác cho e hòi với à máy f3 có_gia bao_nhiêu vậy và máy có hô_trợ trả_góp lãi_suất 0 % không à 
+1	25	ê g mun mua điện_thoại làm_sao à_à 
+9	18	cho e hỡi oppo f3 sao e gân_tay nghe nhưng không nghe_được vậy ạ hôm_qua e vẫn nghe bình_thường nhưng hôm_nay e gắn_vào thì không nghe_được nữa e đã thư_tay nghe không_có hư rồi ạ 
+18	9	mình mới mua con oppo f3 nhưng vào mạng hơi châm nguyến_nhân tại_sao vậy 
+10	18	thời_gian lướt web và chơi game thì máy dùng được trong thời_gian bao_lâu nếu để ánh_sáng 50% 
+0	14	dt sáng j7 prime đổi_lấy điện thôi âp f3 bù bao_nhiêu tiền 
+0	8	mua trả_góp có cần bổ_sung gì không shop với_lại giá f3 6tr9 mak f5 cũ giá đó luôn là sao_không hiu 
+18	1	cho mình hỏi cách kiểm_tra thời_gian sử_dụng pin trên oppo f3 với ạ 
+2	18	tôi min mưa màu_đỏ dặt hang trước_đó không shop ơi 
+6	8	giờ em mua luôn điện_thoại f3 không trả_góp có đã tặng gì không à 
+14	18	cho mình hỏi hôm bữa mình có đi mua điện_thoại oppo f3 được tặng phiếu mua_hàng 300k mình có bù thêm tiền vào mua_cái loa nhưng mình chưa sử_dụng mình có_thể đổi lại không mình sử_dụng mua_hàng tại shop bằng_số tiền đó không 
+10	8	mini có gọi gop bao_nhiêu thị z_shop 
+18	1	làm s de hiện thị phần_trăm pin trên mạn 
+10	18	pin_oppo f3 xai tròng bao_lâu vậy ạ 
+2	4	có tính_tiền ship không ăk 
+18	0	m muốn mua trả_góp sản_phẩm này không lấy quà thì giá sản_phẩm là bao_nhiêu 
+1	18	mình mới mua oppo f3 về nó hiện lên trong cái đặt là cập_nhật vậy có nên cập_nhật không ad 
+6	17	mua_hàng có kèm_theo thẻ_nhớ luôn kể z 
+18	6	khuyến_mận : trả_góp 0% hoặc phiếu mua_hàng 300k hoặc sự là chọn 1trong3 hay_sao ạ 
+8	25	ad ơi e muốn mua oppo f3 không trả_trước được không ạ sđt ề_à phone_number 
+6	8	mua oppo f3 trả_trước 10% thì_có được trang quá không ai 
+6	17	trong hộp có tặng kèm ốp_lưng không 
+6	0	dt_oppo f3 đang giảm_giá còn 5tr990 phải_không à 
+18	0	mặt fa bao_nhiêu anh ê mới mua sáng nay 
+18	6	mua oppo được tặng ht cơ_hội trúng giày_thể_thao bị hunter / đồng_hồ thông_minh phu kiện áp_dụng mua loa nấm hoặc sạc dự_phòng 10 000mah xem chi_tiết trả_góp 0% hoặc tặng pmh phụ_kiện 300 000đ hoặc tặng sdp_maxco 5 200mah tặng pmh 100 000đ mua biti ' s hunter luôn hay_là chọn 1 cái 
+9	14	điện_thoại tôi mua ngày 13 / 7 / 207 đến nay là 16 / 7 / 2017 điện_thoại có hiện_tượng lag máy màn_hình giut lag cảm_ứng vân tay_không nhạy khi gọi cho ai_đó thì bên tôi nghe người khác nói nhưng bên họ không nghe bên tôi nói vậy_giờ tôi muốn đổi trả điện_thoại được không 
+2	18	chào qtv mình vừa mua ốp f3 ngoài ninh_thuận nhưng quên cắt simnano không bịp fbt ở ô môn có hỗ_trợ cắt sim không thế 
+9	14	cho e hơi e mới mua điện_thoại f3 khi tối nhưng giờ sao e chụp_hình nó nhoa lãm ạ giờ e dợi được không ạ 
+0	11	cách đây 1 tháng thấy giá máy là 6500000 sao này lên lại 6990000 rooi nếu bán được gia 6500000 thì alo cho tôi nhé 
+18	3	mình đang phân vẫn giữa 0pp f3 với j7pro admin có_thể giúp mình thêm ý_kiến được không 
+9	18	ê mua oppo f3 rồi mới mua được 3 ngày mà sao điện_thoại không bật web không nghe nhạc để im buỏi sáng het 30% pin buổi sáng_sớm là pin 100% tại e lấy máy_lỗi hãy may như_vậy 
+8	18	mình mua f3 trả_góp được gần một tháng muón đi xăng j7 pro có cách nào không vậy 
+18	8	cho mình hỏi nhà mình muốn mua oppo f3 vậy lãi_suất bạn vậy 
+1	10	cho mình hỏi sao điện_thoại oppo f1s không_có chức_năng kết_nối wps vậy 
+14	6	mua f1 2017 được tặng_giá shop 
+9	18	pin_oppo của em dùng 3 tiếng đã hết_sạch pin rồi có thấy pin mới được không ạ 
+18	10	oppo f1s 2017 có bảo_mật vẫn tay kia ạ 
+1	18	ad cho mình hỏi máy mình f1s 2017 mình để trong túi_quần trat nó cứ hay bị liệt càm_ứng_ý kiểu không bấm được chữ tao nguồn đi bật lại bám được chữ không_biết máy bị lỗi gì ạ 
+18	1	em đang_dùng f1s nhưng tự_nhiên nó bị mất sóng thẻ sim và dùng được bình_thương nhưng gần vào điện_thoại thì không_có sóng em phải làm_sao để khắc_phục ạ 
+8	2	oppo f1s 2017 fpt ơ đồng xoài bình_phục còn hàng_không bạn trả_góp dừa trước 30%như_thế_nào 
+8	18	bên fpt có giữ_lại cmnd không 
+8	18	bên fpt có giữ_lại cmnd hông ạ 
+10	3	cho tôi hỏi hệ_điều_hành coloros khác hệ_điều_hành android như_thế_nào 
+6	8	hiện_tại bố_mẹ muốn mua oppo f1s trả_góp thì giá_cả n n và có được khuyến_mãi gì không shop 
+6	8	mua online giảm 1 trẻ đã quá tặng rụi cô đã trả_góp không shop 
+10	17	có_thể nhớ 256gb 
+10	6	oppo f1 2017 6 990 000d có_thể nhớ 256 gb dùng không 
+18	8	hóa_đơn điện nước có_thể lấy chỗ mẹ đang tạm_trú được không ạ hay phải lấy hóa_đơn gia_đình 
+10	1	những sản_phẩm của huawei có thường được cập_nhật hệ_thống hay được nâng_cấp android không ạ 
+17	0	dán màn_hình có được free không vậy shop 
+2	18	ở hải_phòng có mấy chưa ạ trả gỗ nên 
+10	18	máy này dành_cho người có_tuổi tốt không bạn 
+18	10	dòng máy này lưu được bao_nhiêu số vậy 
+31	18	cho mình hỏi những điện_thoại nào có java 
+18	1	cho em hỏi cái_này bắn bluetooh sao vây 
+1	18	cho em hỏi mày này kích_thước chữ trên màn_hình lớn không ạ 
+2	10	mày có java không shop 
+10	3	masstel 260 có tốt_hơn nokia 105 ( 2017 ) không bạn 
+18	9	mic đàm_thoại của máy i260 sao bé thế nhỉ admin nói tớ mà bên_kia nghe_thấy rất bé trả_lời mình được không 
+18	1	ẩn ngày và giá tên nhà mạng 
+10	18	sao máy này không cài sẵn nhac chuộng trong máy vậy ad 
+18	6	tết đến rồi sản_phẩm masstel l260 có giảm_giá không ad 
+18	6	sắp_đến tết rồi fpt có giảm_giá máy này không vậy 
+10	18	cho hỏi 
+11	8	mình có cmnd blx trả_trước 20% v có cm thu_nhập nữa không ạ phone_number 
+8	18	mua trả_góp 20% thì mỗi tham trả bao_nhiêu ad ở lào_cai còn màu_đen không 
+8	15	e ở khu_vực đức trọng - lâm_đồng bữa ngày 7 / 12 ẽ có ra fpt ở đường thống_nhất hỏi về mì a1 trả_góp thì nó nói không_có trả_trước 10% lãi_suất 0% phải trả_trước 30% thì mới lãi_suất 0% duộc 10-20% thì không_được tính lãi_suất 0% như giới_thiệu và lãi_suất cao còn chương_trình trả_trước 10% lãi_suất 0% lá của tháng 11 qua tháng 12 không còn_nữa add trả_lời hộ e phật thông_tin giới_thiệu trên facebook thì khác mà ra cửa_hàng lại khác 
+18	8	mình chỉ_trả được 10% thôi à mình có trả hơn được không ạ c qtv mong phản_hồi từ ạ c 
+18	1	cho e hỏi sao báo_thức không kêu khi đang_sạc 
+8	18	htc 10 evo 1 sim hay 2 sim chất_lượng âm_thanh như thế_nào không thấy đề_cập đến nếu trả_trước 50% 50% còn_lại trả trong 3 tháng thì_có được không fpt ninh_thuận có hàng_không 
+18	2	lúc_nào mò về quảng_bình đây 
+2	20	thứ 6 này em đăng_ký mua trả_góp ở cần_thơ màu em muốn mua là màu gray nhưng hiện_tại ở cần_thơ không_có màu gray vậy bây_giờ em có_thể đặt_trước màu gray về cần_thơ để thứ_sáu mua trả_góp không 
+4	15	đặt một con htc 10evo qua f-friend mà lâu quá_trời o trảng_bom vẫn có máy mà nói giao_hàng về tận nơi ( cùng ở trảng_bom ) vậy_mà đội hoài không_có chắc tại mua chưa trả_tiền trả_góp nên không buồn giao_hàng 
+18	9	tiếc nhỉ được 2 sim mình mua ngay mình_thích ê này nhưng 1 sim bất_tiện quá 
+2	10	có bạn hai sim không shop 
+10	18	pin máy thời_gian chơi game xem phim bảo lâu với máy nóng có gây hao pin không 
+2	22	khu_vực hà nội_bào giờ có hàng vậy à 
+18	15	sản_phẩm mới ra_mắt sao lại sắp hết hàng vậy add khóa_hieu 
+1	10	ad cho mình hỏi cái htc 10 evo tải ứng_dụng và game về có chuyển qua thẻ_nhớ được không hay lưu mặc_định trên máy vậy 
+8	14	em mới mua ip5s trả_góp giờ đòi lại con này được không em trả_góp chưa_xong 
+8	18	bên mình có htc 10 evo về siêu_thị chưa à và có hỗ_trợ trả_góp lãi_suất 0% không à 
+2	15	lại không_có màu_đen mọi màu đẹp_nhất không_có quá chán 
+2	10	htc 10 evo mình mua có nguyễn seal không qtv 
+18	6	khi về không_có chính_sách khuyến_mãi gì hả fpt sao nhiều cửa_hàng có rối mà fpt chưa có vậy 
+2	22	ko biết fptshop có thật_sự kinh_doanh htc 10evo không nếu có thì bao_giờ có hàng 
+10	18	điểm 3d bnhiu 
+10	0	con này có_giá là bao_nhiêu ạ và có 1 sim hay 2 sim 
+2	17	hiện_có ốp_lưng cho nokia 6 chưa ạ 
+2	18	bạn ơi mình hỏi này fpt có tài_trợ cho trang bán_hàng sendo vn không vậy ad 
+10	3	nokia 6 và samsung j7pro nên mua cái_nào cái_nào có khả_năng chống nước và kết_nối với tivi được 
+14	16	cám_ơn fpt_shop bạc_liêu đã hỗ_trợ đổi máy nokia 6 mới 
+10	18	cho em hỏi em có mua một điện_thoại nokia6 có ghi hỗ_trợ thẻ_nhớ 128gb sao sai tới thẻ_nhớ 32gb máy lại chạy không nổi giải_thích em_em cái ad ơi 
+2	17	có ốp_lưng nokia 6 không ạ 
+18	10	cho mình hỏi nokia6 khi mua thì hợp có bọc seal ở ngoài hay_không 
+18	10	shop cho mình hỏi là mình đang_dùng nokia6 thì_có dùng được kinh thực_tế ảo không nếu được thì mình quả của hàng đặt một cái 
+18	10	nokia 6 liệu có tốt_hơn các sản_phẩm khác không bắn mình cùng dih mua nhưng chưa ai đúng nhiều về nokia6 cả nên cũng bạn_khoan 
+17	2	cho mình hỏi ở quận 11hcm có miếng dán màn_hình và ốp_lưng nokia5 không vậy 
+2	17	qtv sao ở đây nói cường_lực no6 là full nhưng chất với tư_vấn bán_hàng nói_là không full mdmh cường_lực có full không vậy cám_ơn 
+2	15	cần mua ốp tại kon_tum cò chưa chưa có thì chuyển về đi chờ 3 tuần rồi 
+18	22	giờ em ở nha trang mà hàng đã hết còn giờ em đặt online thì khi_nào có hàng ạ 
+10	2	xin_chào ! có bản 4g ram không ạ 
+2	17	cường_lực nó 6 full không qtv 
+17	2	cho mình hỏi có ốp_lưng của nokia 6 không 
+2	22	hàng bên nguyễn_thị tú_quận bình_tân bảo h thì_có vậy 
+17	2	miếng dán khuôn màn_hình có ở đức trong lâm_đồng không ad 
+2	10	cho mình hỏi màu trắng và màu bạc đối_với sản_phẩm này là 2 màu khác_nhau hay chỉ_là 1 
+1	14	mình mới mua nokia 6 của fpt vào ngày 01 - 8 - 2017 cũng khá ít thời_gian sử_dụng vì công_việc nhưng đã bị 3 lần không nhận_cảm biến vân tay nên phải khởi_động lại mới dùng được và chụp_ảnh thì không_lưu được cứ báo đang xử_lý ảnh_mãi và cũng phải khởi_động lại mới được còn thư_viện ảnh muốn xóa ảnh thì nhiều lúc cũng không xóa được vấn lại phải khởi_động lại vậy qtv cho mình biết chính_xác nếu mang máy kiểm_tra có được đổi không vì khởi_động lại thì máy vẫn dùng bút chẳng_lẽ cứ khởi_động thường_xuyên sao 
+18	9	máy có bị lỗi cảm_ứng không có hiện_tượng đó không bữa lau xài hàng lumia thấy ớn 
+10	9	mới mua nokia 6 sử_dụng không bao_lâu phảt_hiện báo_lỗi 
+10	0	mình thấy trên trang_chủ nokia nó nói rằng nokia 6 phiên_bản đến a 64g và ram 4g có_thể có_giá bán khác các màu như vàng trang xanh ( chỉ_là 32g và ram 3g vậy thực_tế gia của các phiên_bản này là như thế_nào 
+9	1	ad cho mình hỏi nokia 6 sạc pin đèn hiện_thị không sáng pin vẫn sạc là máy bị lỗi gì hay đồ tắt chế_độ gì máy mình mới mua được 2 ngày 
+17	18	mình muốn mua ốp_lưng cho máy này 539le thanh tổng để mình 1kai nhé 
+18	16	mình rất hài_lòng với nv phát ở quảng_ninh hạ long tự_vấn bán_hàng mọi_người lên mua_hàng ở fpt nhé 
+17	2	miệng ôp lưng trong cơ ở khu_vực 539 hàng_không 
+10	14	cho mình hỏi mày nói_dối mày khác được không máy mới chưa được 1thang 
+18	1	cho mình hỏi mày mình bị ám đen trên đỉnh màn_hình không_biết có sao_không 
+0	17	dạ shop có kinh_doanh sản_phẩm ốp_lưng nokia 6 silicon trong giá 99 000đ và mdmh_nokia 6 kính cường_lực giá 150 000đ ạ tuấn trước mình hỏi vẫn còn mdmh mà giờ không còn vậy qtv cám_ơn 
+17	2	miếng dán màn_hình nokia 6 có chúa add 
+10	18	samsung_galaxy j3 pro có bao_nhiêu loại vậy shop 
+8	18	em sinh 27 12 1997 ạ 
+18	1	anh / chị ơi cho e họi về điện_thoại j3 phố này tại_sao e nộp tiền vào nhưng chưa diễn thì 2 3 ngày_sau nó hết_tiền là sao ạ 
+8	11	hôm_nay fpt_shop có đến cty có tư_vấn về việc mua điện_thoại trả_góp mình muốn tìm_hiểu thêm hình_thức trả_góp sđt phone_number 
+18	0	nghe_nói j3 pro bất_ngờ giảm_giá còn dưới 4 triệu thông_tin đó có chính_xác không ạ 
+18	15	tại s mua sản_phẩm chưa_đủ 10ngay bị lỗi ra đòi giũ máy là không hài_lòng r 
+9	1	mình mới mua máy nhưng tại_sao khi mình để tối màn_hình thì màn_hình nó thỉnh_thoảng bị mập_mờ ảnh_sáng trên màn_hình là bị sao_vậy hả 
+0	8	em muốn mua giá góp j3 pro anh_chị tự_vấn giúp em với ạ 
+3	10	cho mình hỏi với chiếc j3 pro nếu chỉ lướt web xem tin_tức và chơi game nhẹ thôi_thì pin có lâu không và độ_nhạy màn_hình có lâu_hơn j5 prime không ạ 
+10	1	cho e hồi j3 pro lâu_lâu nó tái_lại máy ứng_dụng mình đúng là s à 
+10	17	máy có kèm thẻ_nhớ không vậy 
+18	1	á á cho em hỏi nếu gỗ cả em sau_lưng máy thì_có bị sao_không à 
+5	18	ở đi linh lâm_đồng có trung_tâm bảo_hành sam súng không ạ 
+26	20	nếu e dắt online thì khoảng bao_lâu thì_có ạ 
+18	20	đặt_hàng online xong tới cửa_hàng xem và lấy máy được không 
+0	18	j3 pro giá 4490000 đ có máy màu ạ 
+10	9	máy mua 2 ngày có tình_trạng không ăn sim mỉnh đã lắp sim lài và báo sim khả_dụng liên_tục vậy lỗi đó máy hay tại sim lọng vậy qtv 
+10	1	cho mình hỏi samsung j3 pro có 2 đèn led mặt_trước dùng cho tính_năng gì vì khi sạc pin không đèn sáng cảm_ơn nhiều 
+18	1	sao mình xem video trên 24h bị nhòe vay 
+9	1	em vừa mua máy này hồi chiều lúc về nhân_viên có bảo là lúc máy còn 10% lạ phải sạc 8 tiếng mới được rút nhừng mà em sạc từ 9h-11h được 65% vảy nếu đây thì rút luôn hay_là đợi 8 tiếng rồi rút vậy 
+1	18	tìm tại video nhạc hinh 
+5	18	trong hộp kem nhưng phụ_kiện gì vậy và bảo_hành thế_nào 
+2	22	và em đặt_hàng từ hôm_nay liệu đến 10 / 7 có hàng về lực nam bắc_giang không ạ 
+18	8	ê tượng chả truoc 20% thôi à sao bây_giờ đã lên hơn 30% gía_trị rồi 
+18	15	không_có hàng ở các shop thì làm_sao mà xem trai nghiệm rồi mới quyết_định có mua hay_không chứ 
+18	0	đã như_vậy là chả hoàn_thiện sống máy là 4 600 000 đồng ăk 
+18	7	nếu em mua quet_thể được không ad 
+15	18	sao mình đặt_giữ hàng ở thái_hà rồi nokia 5 sliver mà không thấy tin nhăn sĩ điện_thoại ạ 
+8	18	10tr490k là giá_mua trả thẳng hả shop có_thể mua trả_góp với giá này không ạ 
+6	18	fpt phần thiết có chương_trình mua sim vietnammobile được giảm còn 5tr990k không fpt 
+8	18	trả_trước 60% lạ hơn 3triêu đúng không fpt 
+8	18	add ơi 31 / 12 không_biết còn c9 không add cai_lậy tiền_giang và e mun mua trả_góp thì_có hạ_giá hay trả_giá gốc vậy 
+6	18	cho mình hỏi nếu mua gói cước đi kèm thi có phải trả_tiền máy còn_lại không 
+6	18	giảm ngày 5tr5 khi mua máy kèm gói cước fpt là sao ạ 
+8	18	add ơi 31 / 12 không_biết còn c9 không add cai_lậy tiền_giang và e mun mua trả_góp thì_có hạ_giá hay trả_giá gốc vậy 
+18	8	gọi fpt588 là thằng nào mình cũng đông hết hay_là dòng 1 lần 588 000 thôi v 
+9	18	thế mua máy xong mà người_ta không dùng sim vietammobi không nạp tiền nữa thì sao ạ 
+18	6	tôi muôn mua c9 pro nhưng không_có gọi cuộc km của việt hà bạn 
+18	8	tôi muốn mua máy sẽ c9 pro trả_góp theo chương_trình đại_tiệc sam sưng thì_phải như thế_nào và giá_tiền máy tôi mua sẽ là bao_nhiêu có giảm không hãy sẽ vẫn là giá gốc của máy 
+8	18	nếu mình trả_góp 50% mậy góp mỗi tháng 1 157 000 mỗi tháng rồi nạp thêm gói cước fpt588 mới tháng như_vậy khuyến_mãi ở đâu tính ra mua_mặt dữ_vậy 
+18	0	ở ngoài quảng_cáo gía_giảm_trừ con 5tr990 sao bên_trong lại vẫn giá hơn 11tr ad nhỉ 
+6	18	mua giảm_giá nhân zí ad 
+18	0	c9pro hơn 11tr giảm còn 6tr đúng không ad 
+1	9	chào qtv mình mua máy về 10 ngày mình thử trong điều_khiển tắt hết ứng_dụng ngầm tắt ay display tuy_nhiên vẫn bật wifi mình để trong 2 tiếng để kiểm_tra pin trong 2 tiếng không_có tin_nhắn hay cuộc_gọi nào sau_đó mình thấy pin bị tụt 3% mậc dù không làm gì cả mong qtv cho_biết tình_trạng pin của mình thực_sự pin 4000 mah mà như_thế này mình không yên_tâm lắm cảm_ơn 
+8	18	nếu_như mình không_thể duy_trì gói cước fpt trong 12 tháng thì_phải trả máy lại hay_sao ạ 
+6	18	đã cho em hỏi gói cước này áp_dụng bao_lâu ạ 
+18	8	cho em hỏi khi mình mua máy với gói cước fpt 588 này là mình chỉ trả 5 490 000vnđ dùng không ạ với_lại mỗi tháng còn phải nạp 588k / tháng ( trong 12 tháng ) hay_sao ạ 
+18	0	cho mình hỏi sao giá khuyến_mại là 5 990k sao vào chi_tiết lại 11 490k vậy à mình chưa hiểu 
+6	18	bắt_buộc phải mua máy với gói cước fpt588 chứ không mua với gói cước khác được ạ 
+6	18	bắt_buộc phải mua máy với gói cước fpt588 chứ không mua gói cước khác được hả shop 
+18	10	mày mới hay_là bạn máy cũ_vậy 
+8	11	mình có thẻ vp_bank mình_muốn mua con này trả_góp trong 12 tháng được không shop tư_vấn mình nhé phone_number 
+6	18	nếu mua kèm với gói cước thì mỗi tháng oi đóng bao_nhiêu cho shop không tính_tiền cước nap mỗi tháng 
+18	0	nếu_không thanh_toán cước 588k / 12 tháng thì_có được mua với giá 5990k không ạ 
+18	0	giảm 5tr500ngan vậy giá_bán là 5tr990ngan phải_không bạn sao lại ghi già online là 9tr900ngan lần số mình không hiểu 
+0	18	cho mình hỏi tại_sao giá online lại rẻ hơn giá thường 
+8	14	máy đổi trả có hỗ_trợ trả_góp không shop 
+10	18	chỉ mỗi_ngày 16 / 7 hay từ_ngày 16 / 7 vay ạ 
+14	3	các bác tín_đồ công_nghệ cho em hỏi : nếu mua xzs hay xz ạ và có nên mua_hàng đổi trả không 
+18	14	nếu máy không lỗi_thì tôi vẫn được hủy hợp_đồng và mất phí 20% phài không tks 
+10	3	sony_xperia_xzs có_khác gì với tên_gọi sony_xperia_xzs g8232 không vậy ạ 
+3	18	cho em hỏi là chỉ một helio p10 10 số sánh hiệu_năng thì bằng con chip nào của snapdragon 820 
+18	9	phím nguồn kẹt rồi b được không 
+10	18	cái_túi có hình thế_nào vậy ad 
+18	10	cho mình hỏi sony_xzs hết tốc_độ cao cô xem được youtube như đông iphone không 
+10	15	theo em nếu xz có thêm tính_năng chống nước chống bụi thì có_lẽ sẽ hoàn_hảo hơn và còn tăng dung_lượng pin nữa 
+1	16	các_bạn cảm_thấy thế_nào riêng cá_nhân mình cảm_thấy việc sony tích_hợp 3 phím điều hướng vào bên_trong màn_hình là 1 điểm cộng rất hay đó là khi chơi game 3 phím này tạm ẩn đi như_vậy không sợ việc vô_tình chạm phải các phím này cứ tưởng_tượng cảnh đang chiến game_mak chạm nhám tay vào 1 trong 3 phím điều hướng làm thoat game thì_thôi rồi sony_number_one 
+16	18	sony làm chả tốt lắm vì pin 2900amh giờ phải tăng_lên 3500amh giờ mới được mà màn_hình phải 5 5inch là ok chủ 5 2la hồi nhỏ 
+17	2	cho e họi của hàng có ốp_lưng của xzs chưa ạ 
+16	30	mua máy mới ở fpt luôn 
+10	9	camera quay sieu châm của con xzs sao nhoe vay ạ 
+6	8	sony_xzs còn khuyến_mãi trả_góp 0% khộng ạ 
+9	1	adn cho e hỏi sao máy e chụp_hình không_có dự_đoán 1 2 3 4 nhỉ mậc_dù máy chưa nóng 
+18	1	ad ơi tes dùm e chế_độ slow quay ánh_sáng đèn_pin trong môi_trường khói đặc e xem với 
+22	1	cho e hởi khi_nào thì sử_dụng chế_độ stamina và ultra_stamina 
+16	18	hiện_nay ẽ có khoảng 15tr thì nên mua điện_thoại nào có thiết_kế đẹp nghe nhạc hay camera chụp đẹp ạ cấu_hình thì_giờ bảo_hòa rồi nên e không quan_trọng lắm 
+18	1	khi mua về thì em nên sạc khoảng mấy tiếng trước_khi sử_dụng v qtv em nghe bọn em nói pin này thì hơi yếu có người nói thì sạc khoảng 8 tiếng_là pin trâu ngay 
+18	1	ad cho hỏi xzs cài_đặt kich dup sáng màn_hình được không mình thấy xz thò cò_khi mua xzs thì không còn chức_năng này tks 
+5	18	sao mình mua máy xzs rồi mà số imei mình kiểm_tra bảo_hành điện_tử lại không_có đăng_ký vậy 
+18	1	sao mình bật chế_độ tự_động quay tiên_đoán rồi nhưng chụp không_được nhỉ bắn vẫn chỉ_có 1 hình_ảnh mà không_phải là 4 
+6	18	shop cho hỏi khi_nào thì nhận_được quà_tặng khuyến_mại là sạc dự_phòng và tai_nghe vậy mình nhận máy từ hôm 6 / 4 
+14	18	shop cho mình hỏi nếu mình bán lại xzs thì_có phải trả_lại quà tai nghe+sạc đã nhận không 
+14	23	ả bắn cái sony z3 compact cũ mua_cái xzs được không 
+10	1	ad cho hỏi xzs có chức_năng kích dup tắt_mở màn_hình không 
+18	11	sao lấy máy từ 6-4 giờ vẫn chưa có quà phone_number 
+9	18	lên mạng yêu wa khi gọi điện thì nghe âm_thanh vọng lại là sao l 
+14	23	mình có mua của cty cái sony xã này mình muốn đổi cái oppo f3 cty có thấu lai đt cử không 
+10	9	sao oppo f3 bắt mang yếu_thế nhỉ không bằng noe7 
+8	26	nếu h em muốn mua trả_góp điện_thoại này bị mới có hàng ạ 
+5	23	shop có thu_mua máy bị xước vồ đã thấy màn_hình cảm_ứng nhưng vẫn còn bảo_hành không ạ 
+18	14	mình đang xài f1s plus khoang5 thanh đơi f3 bự không bạn đã bán 
+2	10	oppo f3 plus có fm ra không ạ 
+18	2	máy có_sẵn không ạ 
+6	8	bạn ơi mua trả_góp được km không ạ mà hổ_khẩu của mình ở một_nơi mình ở một_nơi được không ạ 
+18	26	mình đặt_mua máy trước để được nhận quá mà hôm 1 4 ra nhận máy không_có quá vậy mình phải đợi đến bao_giờ mới cô vậy bạn 
+17	18	sau ở shop không_có miến dán cường_lực oppo f3 plus vậy 
+6	26	tôi đã lấy máy nhưng chưa nhận_được bộ quà sản_phẩm như tai_nghe đồng_hồ muốn hỏi bao_giờ có quà thôi 
+18	26	bao_giờ có quà tai_nghe đây đeo tay vậy mình mua f3 rồi nhưng chưa nhận_được quà ( đã đặt_hàng trước ) 
+8	18	ở lòng ấn mua trả_góp thì nhân_hàng bằng_cách_nào 
+8	6	mình đặt_mua góp nhưng minh không mua trả_góp nữa mà trả thẳng thì mình được hưởng những dị_vậy bạn 
+8	6	cho e hổi là e trả_góp gói 0% không lãi xuất thì_có được nhận quà không ạ 
+18	10	cho mình hỏi là oppo f3 plus_camera sau quay_phim 4k hay full_hd vậy 
+10	18	cho mình hỏi có danh_sách trúng_thương game về f3 plus chưa vậy 
+18	6	bán cho mình hỏi mình máy thì được những quá đi vậy bạn 
+18	21	bạn họ mình hỏi mình đặt_mua oppo f3plus mà không lấy quà thì_có được chiết_khấu không bạn 
+18	3	chiếc này có to hơn f1s nhiều không vậy mình thấy 6inch nó tớ quá 
+18	6	mình thấy có 850 khách đặt rồi mà chỉ_có 800 khách đầu_tiên mới được bộ quà_tặng bây_giờ mình đặt thì_có được không ạ 
+18	3	f3 plus có mỏng như f1 plus không shop 
+18	6	cho hỏi đặt_trước 500k mà ngoài mùng 10 lấy có được khuyến_mại không vậy 
+18	14	hiện_tại mình đã đứg f1 plus và còn bảo_hành nhưng đôi ham_muốn sở_thích mộ lạ nên muốn đổi sang thì_có đã không 
+18	10	cho mình hỏi oppof3 plus tăng gói bảo_hiểm rơi vỡ mấy tháng vậy và có kháng nước kháng bụi không qtv 
+10	18	game đâu già ngược oppo f3 plus_phone_number có trùng không xem danh_sách tại đâu 
+10	18	cho mình hỏi hàng này đặt online hay trực_tiếp thì chế_độ có gì khác nhai không hiện_tại mình đang đứng còn f1 plus thấy ok ko biết f3 có cải_biến gì không 
+18	15	fptshop làm video giới_thiệu sản_phẩm cho f3 plus đi ạ 
+8	14	mình mua trả_góp oppof1s ở fpt giờ mình muôn_đời oppo f3 đã không 
+20	18	mình đặt_trước 500k mùng 4lay vẫn được à qtv 
+18	20	cho hỏi sản_phẩm đặt_trước là màu_đen hay vàng ạ 
+2	22	bao h thì_có hàng 
+21	6	đã giảm 1tr vào giá không bạn 
+6	2	quận 7 samsung s7 edge còn màu bạc không vậy ạ và có chương_trình khuyến_mãi gì không xin cảm_ơn 
+8	18	ad cho mình biết giá thường_niên và giá khuyến_mãi như_thế_nào mình có cmnd và bằng_lái_xe có trả_góp đã không 
+1	18	samsung s7edge không tìm_thấy mục glaxy lại trong phần cài_đặt nâng_cao tại_sao vậy 
+9	1	em dùng ss s7 e nhưng sao nhập mật_khẩu bằng chữ lại không_được ê thự trên iphone thì vào được ạ em thử đánh quá tin sau_đó copy và phát_sáng thì chỉ_có phần số thôi 
+6	2	máy màu_hồng còn hàng ở gia nghĩa không mua được km những gì 
+18	6	màu khác không_được giảm hả shop 
+0	18	shop cho em hỏi với máy này em bị vỡ màn_hình cả trong cả ngoài vậy em muốn thấy chính hãng thì mất bao_nhiêu tiền và thời_gian có lâu không ạ 
+2	10	hàng mới 100% phài không shop 
+9	1	mình mua máy lên android 7 0 bị lỗi nhân được cuộc_gọi đến nhưng không đỗ chưởng cũng không rung luôn đã thử mọi_cách khởi_động lại thì hết nhưng 1 hay 2 ngày bị lại khác_phục sao ad 
+0	17	e đang_dùng s7 edge bị vỡ kính h thay hết bằng tiền ạ 
+2	8	hiện_tại e đang có nợ xấu thì còn khả_năng mua máy không ạ ê trả_trước 70% s7 à 
+18	6	chó mình hỏi phiên_bản ngoc trai đến của s7e giờ là 16trieu990 vậy sau_khi s8 ra liệu có đợt giảm_giá nào không ạ và sẽ giảm khoảng bao_nhiêu mình ở tp hải_dương 
+8	6	chương_trình giảm_giá 10% có áp_dụng trả_góp 0% khống shop 
+0	6	s7 edge màu_hồng có giảm_giá không à và gia hiện_tại là bao_nhiêu à 
+5	10	s7edge có tính_năng chống nước vậy vào nước có được bảo_hành không 
+5	18	4 tháng trước mình có mua loại súng s7 edge kiểm_tra imei gửi 6060 ra thời_hạn bảo_hành giờ mình muốn bán lại bị nói_là máy không chính hãng là sao b kiểm_tra máy 32g ram4g 
+18	9	mình vừa mua điện_thoại s7 edge được 3 hôm thỉnh_thoảng lõa trong bị đè lạ làm_sao ạ 
+18	10	phiên_bản 7 0 có ổn_định hơn 6 0 không anh nge trên mấy diễn_đàn nói pin nhanh hết hơn 6 0 tư_vấn gium ể cái nhà a ạ 
+15	9	cho e hơi e mua s7 edge mà e dứng pin chỉ để 3t là hết là sợ 
+14	9	mình mua s7 e vẻ sai sao bị lỗi qua bộ 2 sim vào mà sim chính là sim 1 cú bị lỗi_hoài mình ra đổi mày đến cái thứ 4 mà vẫn bị mình nạn chỉ quá mình mun sai còn này mà lời riet cho hỏi qtv là bị sao_vậy và mình mun chuỵên qua dòng máy khác sai có được giải_quyết không minh mua trả_góp nhé 
+18	9	cko hỏi mày ê mua mới 2 ngày nhưng sạc pin đầy không sử_dụng để 2 tiếng mất 2% pin_z có bình_thường không 
+14	20	mình muốn bán s7 edge mới mua thì dự bao_nhiêu shop 
+18	2	còn hàng ở quảng_trị không ạ nếu hết thì có_thể liên_hệ chỉ nhánh khác chuyển đến quảng_trị không mình muốn mua 1 chiếc 
+18	9	mình mua s7 edge ở fpt vừa_rồi có test cảm_ứng bằng *#0# và mutiltouch có thấy 1 điểm khoãng 1cm là bị chết cảm_ứng không_biết có phải đo lợi của máy không mua được 27 ngày 
+6	18	phiếu mua_hàng phụ_kiện thì mua được gì hả shop 
+18	6	cho mình hỏi từ trước tới giờ mình mua rất_nhiều sản_phẩm của fptshop bao_gồm nhiều smartphone vậy tài_khoản của mình có tích điểm để giảm_giá không 
+2	0	chào shop e muốn hỏi sẽ galaxy s7 edge màu_hồng hiện_tại giá bao_nhiêu ạ có khuyến_mãi không ạ 
+1	9	máy nó bị đứng s7edge đứng làm_sao ạ nhân tổ_hợp phim cũng không_được 
+18	1	mình muốn hạ hệ_điều_hành máy s7 edge fpt có_thể hỗ_trọ đựơc không xin cảm_ơn 
+18	6	vậy muốn mua màu_vàng thì sao có được đảm_gia không 
+14	20	máy mình mua ở fptshop được 3 tháng giờ bán lại cho shop được bao_nhiêu 
+8	10	máy này chống nước không vậy mua trả_góp vào buổi_tối được không 18h 
+2	18	sản_phẩm giáo về có như_trên này không 
+18	10	phần đặc_điểm nổi_bật của máy shop để là tấm nền ips còn phần thông_tin sản_phẩm shop để là tft z máy là sử_dụng tấm nền j_z 
+6	0	1cải bù tiền rồi có tặng gì họ 
+18	8	bạn ơi mình quên số hơn mua trả_góp giở_mình hỏi số hơn phải làm_sao ạ 
+0	6	thag 10 có quà_tặng giá không à 
+18	30	mua trả thẳng lê thị_lý 
+15	16	nhân_viên ở tân_an lòng ấn từ vấn rất nhiệt_tình em hài_lòng lắm cám_ơn cả shop ở p2 đường hùng vương tân_an nhá 
+18	30	mua thẳng 
+18	11	mình mới mua điện_thoại vivo y55s giá 3690 sạc dự_phòng giá 2 đã màn_hình 99 tổng là 4042 và dc tặng phiếu mua_hàng 300 vậy sao vẫn thù của mình là 4042 mong lh mình sdtphone_number 
+18	10	shop cho e hòi với chiếc này dùng hệ gì 
+10	17	y55s có dung được vỏ op chung với y55 không admin 
+18	1	cho mình hỏi cách đó hình_ảnh từ facebook hoặc từ google_search hình_ảnh của vivo mình không thấy nút_bấm đó hình_ảnh ở đâu hết thats_all ! 
+18	1	tại_sao lại không_lưu ngoại_tuyến được vậy 
+14	8	khi mua trả_góp không đồng ở cửa_hàng e muốn bán lại luôn có được không 
+10	18	cho mình hỏi vivo y55s có màu gì 
+18	8	ê mua trả_góp bên shop này đến hạn nhưng e không gần shop vậy em có_thể đến đâu thành_toán 
+0	17	vậy có bán báo đã cao_su trong sốt khi bao_nhiêu một cái vậy 
+10	18	nếu khó tặng thẻ_nhớ túi mua ở đây luôn_thể nhớ 16g giống trong điện_thoại luôn là bao_nhiêu cái thẻ_nhớ 
+6	18	chào shop ạ tụi năm_nay 41 tui muốn mua góp đủ khá có tặng kèm ốp_lưng trong hộp khi mà xài tốt khi camera chụp_hình đó chứ có khuyến_mãi thế nhớ 16g khả chất_lượng tốt khi v mông shop phản_hồi 
+6	18	mấy kẻ hỗ_trợ chống và đập à có ốp_lưng khi có khuyến_mãi quà_tặng thẻ_nhớ gì khi 
+16	18	máy này em ví_dụ em muốn mua góp đủ khá tháng góp nhiều vậy bao_nhiêu mới hết máy này sai tốt khi chụp_hình đẹp kha bên_trong có những gì xem phim choi game đọc báo lướt facebook tốt khi 
+18	9	máy mình mà mua khi chụp_ảnh bị nhiễu hạt rất_nhiều không_biết đấy là do máy nào cũng như_vậy hay chỉ máy của mình như_vậy thôi 
+10	1	cho em hỏi điện_thoại vivo y55s này bao_nhiêu % mới sạc pin ạ 
+17	18	cho mình hỏi vivo đã dán màn_hình chưa ạ 
+18	1	fpt co ho_trở root may k tks 
+1	6	làm thế_nào mới có_thể nhận_được ipad năm 2017 
+18	17	dán cường_lực được hỗ_trợ nên 
+9	18	con vivo y55s camera trước chụp ào quá hình_ảnh bị bet mình giảm hết chế_độ luôn mà hình_ảnh vẫn bị áo như lúc mình tăng dần lên chắc đổi_lấy còn y55 thường thôi 
+18	6	s ó bộ quà vivo khi mình quay là được gồm loa tiểu gậy tự_sướng và giá đỡ lượn hay tách đội ạ 
+18	10	wiko ư pulse trên thang_điểm của ớt thì được bàn vậy anh 
+10	3	1 3ghz vậy nó có xử_lý tốt_hơn j5 prime không vậy 
+3	10	mtk 6737 bằng với chip snapdragon nào vậy anh 
+18	10	nắp lưng được làm bằng gì 
+10	17	cho e hới có cây chọc sim không ạ 
+6	17	bên shop có bán_lẻ bao_da cho wiko ư pulse này không ạ ( cái báo đã được tặng khi mua kèm máy ạ ) chủ em muốn mà lẽ 1 cái được không ạ 
+18	15	sao mấy đội quét mã qr là sao bộ tay với mày 
+6	0	ad cho hỏi galaxy a7 2016 giá bao_nhiêu và khuyến_mại quá tặng_cho khách gom những gì 
+18	10	máy chơi liên_quan có bị lag không hả qtv 
+17	6	bộ sản_phẩm này gồm những gì vậy qtv máy này có ốp_lưng không shop 
+18	6	tôi vừa đặt_mua online ở q3 tphcm ko biết cô còn hưởng khuyến_mãi vòng_tay wimate không shop 
+15	17	ốp_lưng thông_minh là sao 
+10	3	máy_chụp_hình nhanh bằng j7pulse không nhỉ 
+18	4	mình ở hải_dương muốn mua máy qua mạng thì tiền ship hàng là bao_nhiêu 
+2	18	fpt có shop nào ở campuchia không bạn 
+8	10	qtv ơi cái wiko này có vân tay_không tôi muốn trả_góp 
+10	18	cho e hồi máy này thuộc hàng nào sản_xuất vậy 
+3	18	chip snapdragon với chip mtk chip nào đáng dụng hơn 
+2	17	bên shop có lớp lũng wiko u fed không vây 
+9	18	sản_phẩm có thông_số kỹ_thuật tốt thế sao già lại trung_bình như_vậy liệu dùng có được như thông_số kỹ_thuật trên_không 
+11	18	đã mua ngày08 / 07 hốm_nay đã có đồng_hồ chưa số đó phone_number 
+6	18	mình mua online được tặng quà là ốp_lưng thông_minh ! vậy mình ra cửa_hàng nhận chiếc điện_thoại và có được tặng quà ôp lưng không quản_trị viên mình ra coi hàng nếu_không mua thì_có sao_không 
+1	14	nokia3 mình mua_đồ 2 hồi súng nhiều lúc máy bị treo không làm gì đó vậy mình đổi máy đã không ạ 
+2	17	nokia 3 có ốp_lưng chưa vậy ad 
+5	18	ê mua máy ở thái_bình thì_có được bảo_hành hoặc sửa_đổi trả ở hà_nội 
+18	1	ad cho mình hỏi youtube mình lo_up phiên_bản mới mà sai tháy không_được mình muốn về phiên bạn cũ của youtube thì_có được không nếu được thì làm bằng_cách_nào mông ad chỉ giùm mình ! nguy 
+10	1	ad cho e hồi máy nokia 3 của e nó hiện thêm thử mức nokia_support_this_is the customer_support_app_for_you_nokia_phone please_update_from_google_play tom startup uống ít ! nghĩa_là gì vậy ẽ không hiểu ẽ có_thể xóa nó khỏi chương_trình của máy được không 
+8	18	cho hỏi số phiếu thu pbphone_numberphone_number đồng trả_góp hôm 3-7 sao nhân_viên bên ngân_hàng fe còn gọi nhạc đồng_tiền góp 
+1	10	ad cho mình hỏi mà máy nokia 3 có tự_động ngừng sác pin khi pin đã dày không ! làm_sao để tăng tuổi_thơ của pin khi mới mua mày về 
+10	2	máy này ở bảo_lộc có không vậy 
+2	17	có bán miếng dán cường lự cho nokia 3 không ad 
+14	2	mình ở vũ_thư sang nhảy qua shop ở lý bôn chỉ mới mau đen mình muốn mua màu trắng 
+18	2	nokia 5 hết bạn hả 
+18	2	ơ shop lại không kinh_doanh nokia 5 nữa ăk mà không thấy trên mục menu vậy 
+2	18	cho hỏi có quầy trải_nghiệm sản_phẩm ở tphcm không 
+10	9	ad ơi cho mình hỏi mày nokia 3 với dung_lượng pin 2630mah chơi game nặng như liên_quân hay tập_kích có tụt pin nhanh không hay chỉ_có nokia 5 6 mới chơi game nặng được 
+18	10	qtv kiểm_tra giúp ể xem 2 dòng máy nokia 3 và meizu u20 máy nào kết_nối được với tivi ăk 
+5	18	máy mình mua chưa được 7 ngày tự_nhiên không lên màn có 1 đổi 1 hay bảo_hành ở đâu vậy bạn 
+10	17	kính cường_lực ở viền máy có không ăk hay chỉ mặt_kính thôi àk 
+18	10	cho e hởi khi chơi game bật 3g liên_tục thì thời_gian của pin_nokia 3 có được nấu không ăk 
+15	2	mình đặt_hàng nokia3 màu_xanh đến ngày 19 / 6 cọc 500 000 rồi ở nha trang khánh_hòa có chưa đợi lâu quá shop cho thời_gian cụ_thể về hàng đi cứ bắt đối_hoài 
+2	17	bắc_ninh còn hàng_không vậy máy có pk đã mãn hay op gí không 
+6	18	ưu_đãi gì vậy ad 
+6	18	cho mình hỏi giảm 700k còn 2 990 000 vậy có được giảm 3% nữa không ạ 
+10	18	ưa qtv_mobiistar_prime x1 và mobiistar_prime x 2017 giống_nhau hả 
+14	18	đổi smartphone mới – tắt về phơi_phới lì_xì 700 000đ chỉ còn 2 990 000đ thời_gian áp_dụng ( 08 / 01 – 20 ) nghĩa_là còn 2 990 000đ 1 con mobiistar-prime-x1 ha 
+3	18	băng tần 4 : lte b3 khác_gì so_với lte cat1 cat2 hả ad 
+18	6	đổi máy có đựợc lì_xì 200k phụ_kiện không shop 
+14	18	đổi máy có được áp_dụng trả_góp 0% khộng ạ 
+14	18	đổi điện_thoại phải còn sử_dụng_được hay_sao 
+10	18	cảm_biến vân tay của mobiistar_prime x1 có phải_loại 1 chậm không ạ 
+10	9	máy_ảnh mình chụp hơi tối 
+18	15	mình vừa mua hồi sáng và cảm_thấy không_vui cho_lắm tuy máy ok nhưng cảm_thấy nhân_viên hội_lộ mình cho_lắm ( lúc mình mua chỉ_có 1 mình mình là khách_hàng ) chắc tại_vì mình không_phải là thượng_đế mua ip7 hay các hãng điện_thoại lớn khác mình chỉ góp_ý thôi 
+14	6	ninh_thuận còn máy đổi được giảm 700k không ạ 
+17	6	ừ mình xem trên_đây là trong hộp có tặng 1 cái ôp lưng có thật_vậy không qtv 
+10	18	máy này ra_mắt hơi nào vậy ạ 
+8	18	máy prime x đứng bố đổi có giảm thêm giá không ad đổi_ủi có trả_góp không vậy 
+14	18	điện_thoại bàn_phím thường có_thể tham_gia_vào chương_trình đổi smartphone mới được không 
+18	15	em không_có smartphone vậy có tham_gia chương_trình " nói smartphone mới tết về phơi_phới ” được không 
+14	10	cho hỏi mình ở tiền_giang gò công tay cô được tham_gia đổi máy cũ lấy máy mới không và đổi mày ở đâu 
+18	9	cho hỏi từ sáng đến tối pin của máy mình mất hết 70% như_vậy pin vẫn tốt chứ 
+14	18	mua ở thì_có đảm_bảo chất_lượng không nhỉ mình đã_đăng_ký đổi máy mà cửa_hàng hơi xa nhà muốn mua ở mà không yên_tâm 
+16	10	mình thấy máy hơi đấy 
+17	18	hm tr thầy xem video có phụ_kiện ốp voi dán màn_hình kèm_theo máy mà hôm_nay mày mua không_có vậy muốn có phải mua thêm 
+18	6	cho hỏi nếu chọn khi giảm 700k thì còn được khai gởi thêm_nữa không bạn 
+18	6	giải_thích một_chút cho mình về ctkm cái thứ 2 đi 
+11	18	mình đặt_hàng tối hôm_qua và có nhân_viên gọi lại nhưng mình chưa kịp hỏi về giá khuyến_mãi giao_hàng vì lỗi sống điẹn_thoại sđt phone_number 
+6	18	ưa mới giảm_giá à 
+3	18	ê hồi giữa xiaomi_redmi 4 với meizu m3s thì con nào xài ok hơn và ở yên ở bắc_ninh còn hàng_không 
+10	18	con này thay pin được không vì máy bị phù pin 
+18	5	điện_thoại ế mất giấy bảo_hành nên e không nhớ còn tin bà không nữa mà giờ điện_thoại bị hư ê lên cửa_hàng nhỏ kt hộ trên máy_tính thì cửa_hàng có xem được không à 
+14	18	giờ mới mua trả_trực ở giờ này còn mua_đồ không a chỉ 
+10	18	máy này không trả_tiền trước_đó không máy à chị 
+18	9	sao 25% cưới pin tuột như bị hư v 25% trong 2p còn 3% cáp sạc vặn xuống 0 % là sao 
+18	9	máy mình pin ngày_trước sắc 1h30 đầy gió hơn 2h mới đầy cổ khi gần 3 tiến mới đầy là sao ạ 
+18	17	cho e hơi màn_hình meizu của e bị bể có hàng để thấy không ạ nếu có thì bao_nhiêu ạ 
+18	17	mang máy ra kiểm_tra có mất tiền không ạ 
+18	9	cho e hồi máy e mới mua sạc lần thứ 2 nhưng tại_sao pin từ 100 xuống 89 chưa đầy 1 tiếng 
+2	18	465 quốc lộ13 phường_hiệp bình_phước quận thủ_đức hàng m3s màu sắm về chưa ạ ẽ có gọi cho shop mà s nói không nghe mặc_dù vẫn đủ micro 
+18	1	cho e hồi máy mới mua sạc qua_đêm được không ạ 
+6	18	hôm_nay là black_friday sao fpt không khuyến_mãi gì hết vậy 
+10	0	vậy m3s ram 3g rom 32 tỷ bao_nhiêu vậy 
+1	0	ở ngoài ghi 2tr5 kích vào thì 2tr9 làm_sao ad 
+1	0	ở ngoài ghi 2tr590k kích vào thì 2tr990k làm_sao ad 
+2	18	m3s có hàng ở củ_chi kotratrrssnbs 
+2	18	465 quốc lộ13 phường_hiệp bình_phước quận thủ_đức e dật ở giao tận nhà cho e nhắ ad màu sam có km gì không ad 
+2	18	có ship về bưu_điện tâm quận bình_định không ad 
+2	18	meizu màu sẫm bưu_điện tâm quận bình_định sđt phone_number e đặt_hàng nhà ad có km gì không 
+0	18	shop có nhận_thấy mặt_kính m3s không ạ mình mua ở fpt còn hạn bảo_hành không may bị bể_kính cảm_ứng vẫn ngon vậy_thì thấy giá bao_nhiêu ạ 
+2	10	cho e hỏi bản màu_xám mặt_kính màu_đen hay trắng vậy 
+22	26	cho hỏi đặt_hàng về tầm quan bíh định là không bao_lâu có hàng 
+6	18	giá giảm có được được áp_dụng khuyến_mãi trả_góp 0% không vậy nhỉ 
+18	17	ê bị bể màng hình điện_thoại này có màng hình để thấy không ạ 
+2	17	fpt có dán mỹ điện_thoại không 
+9	14	vẫy điện_thoại bị lỗi có chờ_đợi không 
+8	18	sản_phẩm màu_xám có phiên_bản mặt_trước màu_đen không v với_lại em là sinh_viên 18t muốn mua góp thì giấy_tờ cần_thiết là gì v à em cám_ơn 
+18	9	s con 25% pin lại tuột xuống 0% r tắt nguồn luôn s kì vậy ạ 
+10	2	fpt có máy meizu m3s ram 3gb rom 32gb không ạ 
+2	18	ad không_có bảng mặt_trước màu_đen à 
+2	10	cho em hỏi sản_phẩm màu_xám thì mặt_trước điện_thoại màu trắng hay đến v shop 
+5	18	gửi bảo_hành từ trà_vinh lên tờ_báo hành thì bao_lâu có lại máy sử_dụng ad bên shop có hỗ_trợ mượn máy sử_dụng khi bảo_hành không 
+9	1	chiếc meizu m3s của e sao_không nâng_cấp lên flymeos 6 được ạ tải update về mà máy toàn bảo lỗi là bị gì vậy ad 
+5	18	máy mua 8 tháng giờ màn_hình bị sóc đỏ chớp đỏ khi sử_dụng muốn bảo_hành thì_có phải trả phí không và có cho_mượn máy xai khi bảo_hành không 
