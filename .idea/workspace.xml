@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a1e81a1-3fc3-4ba8-b05a-b7e1cbd95961" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dict/stop_word.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dict/stopword.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/result/result.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s_word16.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s_word16c.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s_word18.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/test.txt" afterPath="$PROJECT_DIR$/data/test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_label.py" afterPath="$PROJECT_DIR$/edit_label.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result/fail7.txt" afterPath="$PROJECT_DIR$/result/fail7.txt" />
-    </list>
+    <list default="true" id="2a1e81a1-3fc3-4ba8-b05a-b7e1cbd95961" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
