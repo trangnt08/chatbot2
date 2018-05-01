@@ -1,5 +1,4 @@
- accuracy: 0.727
-18	2	cho e hồi n105 2016 con hắn ở đà lạt k à 
+ accuracy: 0.72718	2	cho e hồi n105 2016 con hắn ở đà lạt k à 
 1	3	cho em hỏi mày này và máy nokia 105 2sim ngoài tính_năng 2sim ra thì khác_nhau chỗ nào v à 
 18	4	đơn_hàng trên 500k shop mới ship hả 
 2	22	hết hàng bao_lâu hẫng về bến_tre laì qtv 

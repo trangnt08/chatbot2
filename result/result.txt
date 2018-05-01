@@ -1,0 +1,6 @@
+7: (1,1): them dau, tach tu: 0.727
+16: (1,2), ko them dau, ko tach tu: 0.729
+16b: (1,2), ko them dau, ko tach tu, bo stop word: 0.719
+18: tach tu pivy
+16c: ap dung voi tap du lieu ques3, ques4, test2 (gop cac nhan may ko the tra loi) thanh 18: 0.801
+16d: can bang du lieu: 
