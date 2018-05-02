@@ -26,3 +26,24 @@
 27. Dia diem
 30. none
 31. màu
+
+
+
+0. Giá (sản phẩm, phụ kiện, thay linh kiện,...)
+2. Số lượng sp (còn hay hết)
+3. So sánh 2 sản phẩm
+4. Chế độ giao hàng
+6. Khuyến mãi
+8. Trả góp
+10. Thông tin, chức năng sp
+15. Góp ý
+16. Đánh giá tích cực
+18. Khác
+20. Đặt trước máy
+21. PMH có trừ trực tiếp vào máy ko
+22. Thời gian có hàng
+24. Chào hỏi
+26. Thời gian nhận được hàng
+27. Dia diem
+30. none
+31. còn màu nào

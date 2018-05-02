@@ -1,0 +1,435 @@
+ accuracy: 0.781
+18	4	Đơn hàng trên 500k shop mới ship hả
+10	18	Máy này sạc chui tròn hay micro
+18	2	Fpt có võ của fpt b6 không
+18	10	danh bạn lưu dc bao nhiêu số vậy fpt xin cảm ơn
+18	10	máy lưu được nhiều cuộc gọi đến gọi đi k ạ
+10	18	san ppham này co thẻ nhớ hk ạ
+18	15	Hình ảnh Máy 1 sim sao lại là ảnh của máy 2 sim nhỉ Đề nghị quản trị viên up ảnh cho chuẩn ! 
+18	6	lm sao de nhan dc khuyen mai 190k z ad
+10	15	Tìm mỏi mắt ko thấy thông tin gì về sản phẩm ngoài cái tên nokia 130 Nản
+21	10	có thể vào mạng được k ag
+18	15	Vừa qua cửa hàng đường nguyễn huệ lào cai mang bực vào người Đến nhân viên không chào hỏi đứng 1 lúc không ai hỗ trợ cửa hàng có 3 nhân viên 2 khách hàng trong đó có mình sau 1 luc lặng lẽ ra về như đi ăn xin : ( 
+22	2	shop ơi máy náy ở đà nẵng giờ còn hàng ko 
+18	10	shop ơi đt này lắp đc sim 4g không vì hiện tại sim của mình đang là sim 4g rồi
+2	18	Qtv oi gio e muon sang mau` xanh co dx ko
+10	2	Chào Ở Buôn Ma Thuột Đắk Lắk có đt Nokia 105 Dual Sim 2017 không vậy
+0	18	Chào ad bên mik có bán cục sạc cho Nokia 105 2 sim ko Giá bao nhiêu 
+18	10	105 ( 2017 ) nghe nhạc dc ha shop
+2	18	Máy này mode viet nam fai ko Fpt
+0	10	Nokia 105 sao k có che do bay
+2	4	bên mình có ship ko ạ 
+10	2	Máy này 2 sim hay 1 sim vậy shop Ở Hải phòng có không 
+18	15	Mình vừa mua xog ra khỏi cửa hàng quay vào đổi lấy cái 2 sim mà ko đc
+18	10	QTV cho m hỏi : khi để ở chế độ chờ Máy có đồng hồ chờ như 1202 1200 ko 
+18	15	sao ở điện biên và lai châu FPT toàn ở thành phố thôi nhỉ ở huyện và thị xã không có muốn đi điện thoại ở FPT thì phải đi hơn trăm cây 
+18	4	Cai nay toi mua co giao hang ko vay
+2	18	co cua hang fpt nao gann bo ho khong ban
+18	10	Dt masstel A260 loa ngoai nghe co lon k vay 
+18	10	điện thoại Masstel A260 có chặn cuộc gọi và tin nhắn không 
+18	10	may co len facebook dc ko
+18	10	Nghe nhac dc ko
+18	2	Cho e hoi ạ sao máy này k có phần cài đặt cấu hình ạ
+2	18	xin chào qtv cho tôi hỏi hiện fptshop có kinh doanh dòng máy nào có hỗ trợ java không vậy
+27	2	Cho mình hỏi sp này màu trắng còn ở địa chỉ Thới tam Thôn huyện Hóc Môn không afd cám ơn ad 
+10	2	O trà vinh có khong ạ
+10	18	Máy báo không mở camera được
+0	8	Ad oi wiko xl gia 399000 co tra gop o Tl gap dum e
+18	24	xin chào
+18	10	vivo v5 dùng có được tốt k ạ máy dùng có mượt k pin thế nào
+10	18	Vivo có loại nào rẻ không khoảng 3tr
+8	6	Tra góp có quà k ad
+0	18	Cho em hỏi em Mua vivo v5 9 / 8 / 2017 bây giờ trả lại mất phí bao nhiêu 
+18	10	Nước sản suất 
+10	3	Cho mình hỏi vivo 1601 và vivo V5 là một sản phẩm phải không 
+18	2	Shop có ốp lưng của Vivo v5 không
+10	18	Mày này cho vào nước có sao không = ) ) 
+10	21	Tặng PMH 300k là trừ trực tiếp hay ntn v adb 
+10	18	Cho e hoi v5 su dung chip ngang chip nao cua sam sung vay
+3	18	chu vivo v5 cai nao co 256gb
+18	30	co the nho256gb
+2	30	vao YouTube tim kiếm vivo v5 chua
+0	30	vao youtube go tim kiem vivo v5 co chu truc tiep su kien ra mat vivo v5 gia do bao nhieu gium giùm minh nhe
+18	30	vao tim kiem vivo v5 la co day
+2	30	vao youtube chua
+0	30	bui anh tuan go vao youtube tim kiếm vivo v5 vao cho 01 / 12 / 2016 co chuong do day coi thử gia do bao nhieu gium minh nhe
+18	30	bui anh tuan co biet chuong trinh do khong
+15	18	Shop cho em hỏi em mua v5 từ 13 lúc quay được phần quà vivo Nhân viên bảo sang tuần có mà Sao mãi vẫn chưa có vậy hôm nay đã là 26 r
+10	18	Dien thoai nay co sai ngon ko z
+3	18	Vivo v5 xài chip của hảng nào ạ
+10	18	vivo v5s goi la plus dung khong
+10	18	Tại s máy này choiw liên quân vẫn giật lag vậy
+18	0	co vivo v5 6 990 000 d khong
+2	18	Con nai còn ha ban
+10	2	Vivo v5 plus co ko
+10	18	chơi liên quân sao mấy thánh
+0	3	Vivo v5 giá 5 990 000 Vivo v5s giá 6 690 000 Sao đến fpt nhân viên lại kêu là vivo v5 i chang vivo v5s ko khác chút nào giá cũng giống nhau là 6 690 000
+20	18	Tại sau khi cài đặt những app trên google mình k cài đặt đc mặc dù đã bật k rõ nguồn gốc bấm cài đặt k đc mà bấm hủy đc là sau ạ
+6	18	cho em hỏi mua đặt mua online với mua tại cửa hàng fpt có khác gì nhau ko ạ 
+18	21	PMH 500k có đổi sang tiền mặt dc k bạn
+4	8	Tra gop co nhận quà j ko
+18	2	Chào bạn Mình ở An Giang Mình muốn tìm mua 1 cái vivo v5 củ ở FPT Long Xuyên có không ạ ! 
+10	2	Co cai vivo v5 nào củ ở xuyên mộc bà tô ko vậy ad
+18	21	PMH 500 000d sẽ đc trừ trực tiếp vào sp khi e mua ỡ FPT Shop phãi k ạ Và khi e mua trực tiếp tại FPT Shop thi có đc tặq : Loa tiểu V có dây gậy chụp ảnh và giá đỡ đt phải k ạ
+8	3	cho e hỏi giữa 2 dòng đt j7 prime vs vivo 5 thi loại nào sài bền hơn ít lỗi hơn ạ và trả góp 0% 12 tháng thì lãi suất ntn ạ 
+6	18	Trong bộ quà khuyến mãi của em loa tiểu không phát nhạc được thì có được hỗ trợ đổi lại không ạ 
+6	21	Minh moi mua maybaduoc tang PMH500sao ko dc tru truc tiep vao san pham ma phai mua phu kien vay
+2	18	Trên đây để cửa hàng ở quận 2 Nguyễn Thị Định còn hàng màu gold thì tức mình tới đó sẽ mua đc đúng ko ạ
+18	6	Em đặt hàng qua mạng giao tận nhà có đc trừ trực tiếp 500k vào sp ko 
+18	6	mua onl mới tặng loa gậy chụp hình giá đỡ đt hay mua trực tiếp cũng được tăng vay
+6	18	có thể giảm giá ko
+18	10	Funtouch OS 2 6 ( dựa trên Android 6 0 ) là hệ điều hành như thế nào v bạn 
+10	18	cho hỏi hệ điều hành Funtouch OS của máy có cài được các app của Google Play Store ko vậy 
+2	31	shop đà lạt còn máy ko c nếu còn thì là bản màu gì vậy ạ 
+18	21	Cho e hỏi nếu e không sử dụng phiếu mua hàng hoặc sử dụng nhưng không hết giá trị 500k thì số tiền còn trên PMH có được trừ vào giá trị của máy không ạ
+2	30	Hàng cũ
+18	4	Mình muốn mua 1 máy màu đen Mình ở Củ Chi Vậy shop luân chuyển sản phẩm về củ chi hay sao ạh
+2	18	có máy này đổi trả ở bắc kan ko shop
+2	18	E muốn mua máy cũ có dx ko ạ
+2	4	Chi mình hỏi dịch vụ giao hàng tận nơi có kèm phí ship ko ạ 
+10	18	danh bạ máy này lưu được bn số vậy nhỉ
+18	15	Mua cái này mừng chưa hết giờ bực mình ghê Mấy cái game vớ vẫn nó tự động kích hoạt rồi tổng đài 8708 tự gửi tin về rồi thu phí 15n Muốn hỏi trường hợp này phải làm sao 
+2	18	Fpt tại hưng hà thái bình có máy này đổi trả ko và có thì có giao hàng ko
+10	18	máy này thay sim có phải tắt nguồn ko
+18	6	Giờ mua máy Có ưu đãi gì vậy shop Em ở bến tre
+18	6	E vừa mua máy nhưg k nge nhân viên noi đến khuyen mai a à
+10	18	có game ko
+10	18	cho hỏi sản phẩm này danh bạ lưu trũ được bao nhiêu sô vậy ạ 
+10	18	Điện thoại này của Việt Nam sản xuất phải không 
+10	18	dt này lưu đc bn tin nhắn vậy 
+10	18	sản phẩm này có hỗ trợ trả sau không ad
+18	10	máy này có nhắn tin nhóm được không ( 1 tin send cho nhiều người cùng lúc ý ) 
+18	10	Máy có online fb dk k ạ
+10	18	mình muốn khôi phục cài đặt gốc của dt cần mã pin ad cho hỏi ma pin dt là bao nhiêu thế
+18	10	Cho minh hoi dt nay co chu nang tu dong ghi am cuoc goi khong vay tra loi qua ( emails ) dum minh nha 
+18	3	Cho e hỏi giữa cốc sạc có nguồn vào 5A nguồn ra 2A và cốc sạc nguồn vào 5A nguồn ra 2 4A thì cốc sạc nào sạc nhanh hơn ạ
+10	18	Cho e hỏi nguồn pin vào của cốc sạc oppo f3 là bao nhiêu ạ
+6	2	cho hỏi là f3 ở FPT biên hòa còn k z có giảm giá j k z 
+8	0	Ac cho e hoi voi ah May F3 co gia bao nhiêu vay va may co hô trơ tra góp lãi suất 0 % ko ak 
+18	0	Cho em hoi oppo f3 2016 moi bao nhiu tien vay
+10	18	Thời gian lướt wed và chơi game thì máy dùng được trong thời gian bao lâu nếu để ánh sáng 50%
+0	18	Dt sáng j7 prime doi lay dt appo f3 bu bao nhiêu tiền
+0	18	Oppo f3 doi f5 bù giá bn v
+0	8	Mua trả góp có cần bổ sung j ko shop Với lại giá f3 6tr9 mak f5 cug gia do lun la sao ko hiu
+20	18	Toi mjn mua mau do Dat hang truoc dk k shop oi
+6	8	Giờ em mua luôn đt f3 ko trả góp có đk tặng gì ko ak 
+18	4	Shop có ship hàng tận nơi Không ạ
+0	10	bo nho bao nhieu gb
+10	18	pin oppo f3 xài trong bao lâu vậy ạ 
+10	18	đây là sản phẩm quốc tế ạ
+2	4	Có tính tiền ship k ạk
+18	10	Cho minh hoi oppo f3 co chuc nang chup hinh trong toi ko
+8	0	M muốn mua trả góp sản phẩm này k lấy quà thì giá sản phẩm là bao nhiêu
+4	18	Nếu mua oppo f3 cũ thì có đc giao hàng tân nơi k F3 cũ khác f3 mới chỗ nào 
+8	18	ad ơi e muốn mua Oppo F3 k trả trước dc k ạ sdt e ak phone_number
+15	18	cho hỏi oppo f3 dùng hỗn hợp liên tuc tục 5h đồng hồ thì pin dưới 10% vậy có ổn định ko à với lai để qua đêm không dùng đã tắt các ứng dụng và wifi 3G 4G thì sáng ra pin giảm mất 3% là sao ạ ! 
+20	6	dat hang wa mang moi dc khuyen mai ha shop
+6	18	trong hộp có tặng kèm ốp lưng k 
+18	0	Mặt fa bao nhiêu anh E moi mua sang nay
+2	18	cho hỏi là fpt có kinh doanh sim bùm k vậy
+0	18	cach day 1 thang thay gia may la 6500000 sao nay len lai 6990000 rooi neu ban duoc gia 6500000 thi alo cho toi nhe 
+18	3	Minh dang phan van giua 0pp F3 vs J7pro admin co the giup minh them y kien dc ko
+18	8	Cho minh hoi nha minh muon mua Oppo F3 vay lai suat bn % vay 
+3	18	Cho mjh hoi ve f1 2017 voi
+18	6	Mua f1 2017 dc tag gj shop
+18	10	Oppo f1s 2017 có bảo mật vẫn tay kia ạ
+18	8	Cho e hỏi f1s còn gói lãi suất 0% k ạ 
+8	2	Oppo f1s 2017 fpt ơ dong xoài binh phục con hàng k ban tra gop đưa trước 30%nhu the nao
+18	10	May co chong nước ko v qtc
+2	18	cho ben ban co ho tro cho nguoi chua 18 kh vay
+18	3	cho tôi hỏi : Hệ điều hành ColorOS khác hệ điều hành Android như thế nào 
+18	2	AK oi moi e tjk mua dt OPPO f1s Hjen co cua hang hok a
+16	18	Sao oppo f1s chụp hình nó không được đẹp với ại nó mờ nữa
+16	18	Sao oppo f1s chụp hình nó không được đẹp với ại nó mờ nữa
+6	8	Hiện tại bjo mk muốn mua oppo f1s trả góp thì giá cả n ntn và có đc khuyến mãi j ko shop
+0	18	oppo f1s thì phải trị giá 5 490 000 NĐ nó giảm 500 000 NĐ mà
+18	6	oppo fs 2017 6 990 000d co the nho 256 gb dung khong
+18	8	Hóa đơn điện nước có thể lấy chỗ mk đang tạm trú đc k ạ hay phải lấy hóa đơn gia đình 
+18	2	Thủ đức chi nhánh nào còn nova 2i màu vàng vậy ạ
+10	18	Những sản phẩm của huawei có thường được cập nhật hệ thống hay đc nâng cấp android k ạ 
+18	0	dán màn hình có đc free k vậy shop
+8	18	Ở hải phòng có may chua ạ Trả góp ntn
+22	18	FPT có bao hanh mieng dan k vậy ad
+10	18	Máy này dành cho nguoi có tuổi tốt không bạn
+10	18	Cho em hỏi máy này kích thước chữ trên màn hình lớn k ạ 
+18	10	may co java k shop
+15	18	Mic đàm thoại của máy i260 sao bé thế nhỉ admin Nói to mà bên kia nghe thấy rất bé Trả lời mình được khôngvậy 
+18	10	ad cho em hỏi có máy nào vỏ kim loại không ạ máy bàn phím t9 ý ạ
+18	8	mình có cmnd blx trả trước 20% v có cm thu nhập nữa k ạ phone_number
+8	18	Mua trả góp 20% thì mỗi thág trả bao nhiêu ad ở lào cai còn màu đen k
+8	15	E ở khu vực ĐỨC TRỌNG - LÂM ĐỒNG Bữa ngày 7 / 12 e có ra FPT ở đường Thống Nhất hỏi về mi A1 trả góp thì nv nói k có trả trước 10% lãi suất 0% Phải trả trước 30% thì mới lãi suất 0% đc 10-20% thì k đc tính lãi suất 0% như giới thiệu và lãi suất cao còn chương trình trả trước 10% lãi suất 0% là của tháng 11 Qua tháng 12 k còn nữa add trả lời hộ e phát Thông tin giới thiệu trên fb thì khác mà ra cửa hàng lại khác
+2	18	HTC 10 EVO 1 sim hay 2 sim Chất lượng âm thanh như thế nào không thấy đề cập đến Nếu trả trước 50% 50% còn lại trả trong 3 tháng thì có được không FPT Ninh Thuận có hàng không 
+18	2	lúc nào ms về quảng bình đây
+8	20	thứ 6 này em đăng ký mua trả góp ở cần thơ màu em muốn mua là màu gray nhưng hiện tại ở cần thơ không có màu gray vậy bây giờ em có thể đặt trước màu gray về cần thơ để thứ sáu mua trả góp không 
+18	2	co may de trai nghiem thu khong ad
+2	15	Dăt mot con htc 10evo qua f-friend ma lau qua troi O trang Bom van co may ma noi giao hang ve tan noi ( cung o trang bom ) vay ma doi hoai kn co Chac tai mua chua tra tien tra gop nen kn buon giao hang 
+16	18	Tiếc nhỉ đc 2 sim mình mua ngay mình thích e này nhưng 1 sim bất tiện quá
+2	10	Có ban hai sim k shop
+10	18	Pin máy thời gian chơi game Xem phim bao lâu vs máy nóng có gây hao pin k
+10	2	Ở quy nhơn có sản phẩm trưng bày k ạ 
+27	22	khu vực hà nội bao gio có hàng vậy ak
+18	15	Sản phẩm mới ra mắt sao lại sắp hết hàng vậy add khoa hiểu
+8	18	Em moi mua ip5s tra gop gio doi lai con nay dc k Em tra gop chua xog
+8	18	bên mình có htc 10 evo về siêu thị chua ak và có ho trợ trả góp lãi suất 0% k ak
+2	15	lại k có màu đen mỗi màu đẹp nhất k có quá chán
+18	10	Htc 10 evo minh mua co nguyen seal ko qtv
+15	6	khi về không có chính sách khuyến mãi gì hả fpt sao nhiều cửa hàng có rối mà fpt chưa có vậy 
+18	8	Htc 10 evo có trã góp 0% qua thẻ tín dụng không ạk 
+18	10	Cho minh hoi htc cua hang lao vay va may xuat hình tivi dc kg
+0	18	diem 3d bnhiu
+10	0	Con này có giá là bao nhiêu ạ và có 1 sim hay 2 sim
+31	2	Cho hỏi máy màu xám mặc trước màu gi shop
+2	22	Bao giờ thì có hàng ở hà đông Có bán trả góp k vậy
+2	18	Bạn ơi mình hỏi này FPT có tài trợ cho trang bán hàng Sendo vn không vậy ad
+18	16	Cám ơn Fpt shop Bạc Liêu đã hỗ trợ đổi máy nokia 6 mới
+2	18	Mk muốn mua bản màu đen có cần phải đặt hàng k ạ
+0	2	thành phố châu đốc của nokia 6 ch ạ
+20	2	Mình muốn đặt hàng 1 cái nokia 6 màu xanh đen ở trà vinh được không 
+31	2	Co nokia mau xanhh k vay
+18	10	Shop cho mình hỏi la mih đang dùng nokia6 thì có dùng duoc kinh thực tế ảo ko nếu dược thì mih qua cửa hàng đặt một cai
+18	10	Nokia 6 lieu co tot hon cac san pham kak ko ban mjh cug dih mua nhug chua ai dung nhiêu ve nokia6 ca nen cug ban khoan
+10	2	Cho mjnh Hoi o Quan 11hcm co mjeng Dan man Hinh va op lung nokia5 ko vay
+18	15	cần mua ốp tại kon tum có chưa chưa có thì chuyển về đi chờ 3 tuần ròi
+10	2	xin chào ! có bản 4G Ram ko ạ 
+18	2	cho mình hỏi có ốp lưng của nokia 6 ko 
+10	2	Mieng dan khuon man hinh co o duc trong lam dong ko ad
+18	10	cho mình hỏi màu trắng và màu bạc đối với sản phẩm này là 2 màu khác nhau hay chỉ là 1 
+15	16	Mình rất hài lòng với NV pft ở quảng ninh ha long tư vấn bán hàng moi người lên mua hàng ở fpt nhé
+18	2	Miếng ốp lưng trong cơ ở khu vực 539 halong ko
+18	2	FPT shop gần trường Lý Thường Kiệt hóc môn kiểm tra dùm mình chỗ đó còn MDMH cường lực ko để biết mình ra dán
+0	18	Dạ Shop có kinh doanh sản phẩm Ốp lưng Nokia 6 Silicon trong giá 99 000đ và MDMH Nokia 6 Kính cường lực giá 150 000đ ạ tuần trước mình hỏi vẫn còn MDMH mà giờ ko còn vậy qtv cám ơn
+10	2	Mieng dan man hinh nokia 6 co chua add
+18	2	Vậy MDMH cường lực chỗ FPT shop gần trường Lý Thường Kiệt hóc môn có ko qtv
+18	2	ad ơi cho em hỏi ở số 89 2 bà trưng thành phố bạc liêu có ốp lưng của máy này ko vậy ad
+18	0	Sam sung j3 2016 bao nhieu tien
+18	0	dt j3 pro cua e bi bể màng hình đi thay tốn bao nhju vậy 
+18	0	j3 pro nếu em mua cộng cả tiền dán màn hình vs kèm thẻ nhớ thì tổng cộng mất bao nhiêu ạ 
+18	8	em sinh 20 / 8 / 2004 đủ đk mua đt một mình ko ạ
+18	0	cho mjh hoi mjh muôn thay võ cua dt ton bao nhju tien ạ
+18	0	cho mjh hoi mjh muôn thay võ cua dt ton bao nhju tien ạ
+10	18	samsung galaxy J3 Pro có bao nhiêu loại vậy shop
+6	8	mua tra gop co dc qua ko shop
+0	18	Bên mình có hỗ trợ thay màn hình samsung j3 k ạ nếu có cho mình xin giá luôn ạ 
+6	0	nghe nói j3 pro bất ngờ giảm giá còn dưới 4 triệu thông tin đó có chính xác k ạ
+18	10	Cho hỏi máy này chụp hình ban đêm có đèn led vậy ảnh của mình có bị tối ko
+18	15	Tại s mua sản phẩm chưa đk 10ngay bị lỗiđem ra đòi giữ máy là k hài lòng r 
+18	8	anh ơi cho e hỏi j3 pro góp bao nhiêu ạ và trong thời gian như thê nào ạ
+18	8	em muốn mua giả góp j3 pro anh chị tư vấn giúp em với ạ 
+3	10	Cho mình hỏi với chiếc J3 pro nếu chỉ lướt web xem tin tức và chơi game nhẹ thôi thì pin có lâu ko và độ nhạy màn hình có lâu hơn J5 Prime ko ạ 
+18	10	Sao sámung j3 k chơi dc zalo z
+26	20	Nếu e đặt online thì khoảng bao lâu thì có ạ 
+18	8	e sinh ngày 5 tháng 4 năm 1998 thì có mua dc ko ạ
+18	20	Dat hang online xong toi cua hang xem va lay may duoc hok
+2	18	j3 pro giá 4490000 đ có máy màu ạ
+18	6	cho e hỏi mua samsung j3 pro có khuyế mãi gì khác k ạ
+10	18	Cho mình hỏi samsung j3 pro có 2 đèn led mặt trước dùng cho tính năng gì vì khi sạc pin không đèn sáng Cảm ơn nhiều
+30	18	Tim tai video nhac hinh
+15	8	e tưởng chả trước 20% thôi ak sao bây giờ đã lên hơn 30% giá trị rồi
+10	0	dạ như vậy là chả hoàn thiện song máy là 4 600 000 đồng ạk
+15	8	mua nokia 5 chả góp trong 6 tháng chả trước 20% thì giá chênh lệch của sp trog 6 tháng đó là bio ạk
+18	10	thiết bị đã được hỗ trợ CHplay chưa vật QTV 
+15	18	Sao mình đặt giữ hàng ở Thái Hà rồi Nokia 5 Sliver mà không thấy tin nhăn slaij điện thoại ạ 
+0	18	10tr490k là giá mua trả thẳng hả shop Có thể mua trả góp với giá này ko ạ 
+6	18	Fpt phan thiết có chương trình mua sim vnm được giảm còn 5tr990k ko fpt
+8	18	Trả trước 60% là hơn 3triệu đúng ko fpt
+10	18	Data theo gói cước là 3g hay 4g vậy qtv
+8	18	Add oi 31 / 12 ko bít còn c9 ko add Cai Lậy tiền giang Và e mún mua trả góp thì có hạ giá hay trả giá gốc vậy
+8	2	Minh o huyện go công đông tinh tiên giang co ban ko shop
+6	18	giảm ngay 5tr5 khi mua máy kèm gói cước fpt là sao ạ
+8	18	Add oi 31 / 12 ko bít còn c9 ko add Cai Lậy tiền giang Và e mún mua trả góp thì có hạ giá hay trả giá gốc vậy
+18	8	goi fpt588 la thang nao minh cung dong het hay la dong 1 lan 588 000 thoi v
+15	18	Thế mua máy xong mà người ta ko dùng sim vietammobi ko nạp tiền nữa thì sao ạ
+18	21	PMH phụ kiện mua được những gì vậy ad 
+0	8	Tôi muốn mua máy ss C9 pro trả góp theo chương trình đại tiệc sam sung thì phải như thế nào Và giá tiền máy tôi mua sẽ là bao nhiêu có giảm ko Hay sẽ vẫn là giá gốc của máy 
+18	8	Ad cho hỏi là mỗi tháng chỉ đóng 588k trong 12 tháng là sẽ dc hưởng ưu đãi đó là tháng nào cũng đc hưởng hả ad hay đó là tổng cả năm sao 588x12 tháng là 7tr v ad V mua dt đó tính ra là 7tr mà ko phải trả thêm tiền trả trc j cả hả ad 
+8	18	Neu minh tra gop 50% may Góp moi thang 1 157 000 moi thang roi nạp thêm goi cuoc fpt588 moi thang nhu vay khuyen mai o dau Tinh ra mua mat du vay
+18	6	Km giam 5tr5 la ntn zị ad hk hiểu lắm
+6	18	Mua giảm giá ntn zị ad
+6	0	C9pro hơn 11tr giảm còn 6tr đúng ko ad
+15	18	dùng được 3 tháng thì pin luôn để là đang tìm hiểu cách sử dụng là sao shop Sản phẩm mua chính hãng
+10	18	Dạ cho em hỏi gói cước này áp dụng bao lâu ạ 
+18	8	Cho em hỏi khi mình mua máy với gói cước FPT 588 này là mình chỉ trả 5 490 000vnđ đúng không ạ với lại mỗi tháng còn phải nạp 588k / tháng ( trong 12 tháng ) hay sao ạ 
+15	0	cho minnhf hỏi sao giá kuyeens mại là 5 990k sao vào chi tiết lại 11 490k vậy ak mình chưa hiểu 
+18	8	Cho e hỏi e mua máy này với gói fpt588 thì máy từ phone_number sẽ giảm 5 500 000 à bạn ! và mỗi tháng mình chỉ cần nạp thẻ để trả góp ạ ! 
+6	18	Cho e hỏi mua theo gói 588 thì mình cần giấy tờ gì kèm theo k ạ sim đó mua tiền riêng hay kèm theo đt ạ
+18	10	May moi hay la ban may cu vay
+8	18	MÌnh có thẻ VP bank mình muốn mua con này trả góp trong 12 tháng được không shop Tư vấn mình nhé phone_number
+6	0	Mình muốn mua máy này giá hiện tại là bao nhiêu và có những khuyến mãi gì 
+18	0	Nếu ko thah toán cước 588k / 12 tháng thì có đc mua vs giá 5990k ko ạ
+18	0	Giam 5tr500ngan vay gia ban la 5tr990ngan phai khong ban sao lai ghi gia online la 9tr900ngan la sso minh khong hieu 
+18	6	Nếu mua sp có ưu đãi j cho thành viện dag sd samsung galaxy ko
+0	18	Cho mình hỏi tại sao giá online lại rẻ hơn giá thường 
+18	3	Các bác tín đồ công nghệ cho em hỏi : nên mua xzs hay xz ạ và có nên mua hàng đổi trả ko 
+18	6	Minh mua truc tiep van dc giam chu ah
+10	3	Sony Xperia XZs có khác gì với tên gọi Sony Xperia XZs G8232 không vậy ạ 
+0	6	Chào bạn Sản phẩm giảm giá 1tr có được tặng bộ quà tặng tai nghe sony ko b 
+3	18	Cho em hỏi là chip mtk helo p 10 so sánh hiệu năng thì bằng con chip nào của snapdragon ạ
+8	6	Xzs giảm 1tr áp dụng cho trả góp ad
+18	10	Cho mjnh hoi sony xzs het toc do cao co xem duoc youtube nhu dong iphone ko
+18	15	theo em nếu xz có thêm tính năng chống nước chống bụi thì có lẽ sẽ hoàn hảo hơn và còn tăng dung lượng pin nữa
+18	2	Cho e hoi cua hang co op lung cua xzs chua a
+18	30	Mua máy mới ở FPt luôn
+10	18	Camera quay sieu châm cua con XZs Sao nhoè vây a
+16	18	Hiện nay e có khoảng 15tr thì nên mua điện thoại nào có thiết kế đẹp nghe nhạc hay camera chupj đẹp ạ Cấu hình thì giờ bão hòa rồi nên e không quan trọng lắm 
+15	18	Sao mình mua máy XZs rồi Mà số imei mình kiểm tra bảo hành điện tử lại không có đăng ký vậy 
+15	18	Sao mình bật chế độ tự động quay tiên đoán rồi nhưng chụp không được nhỉ bạn vẫn chỉ có 1 hình ảnh mà k phải là 4 
+6	18	Shop cho hỏi khi nào thì nhận được quà tặng khuyến mại là sạc dự phòng và tai nghe vậy Mình nhận máy từ hôm 6 / 4
+27	2	Màu đen còn hàng ở shop nào chỗ cầu giấy k ad
+10	18	AD cho hỏi XZs có chức năng kích đúp tăt mở màn hình ko 
+15	18	AD ơi kết quả quay thưởng của XZs hôm nay coi ở đâu vậy
+22	2	Sóc Trăng có hàng chưa shop ơi
+18	2	Bên mình có kinh doanh phiên bản màu đen nhám chưa Trả lời qua mail giúp mình nhé Thanks
+15	18	Google o man Hinh chinh e lo xoa mat roi Lam sao cai dat lai
+8	26	Nếu h em muốn mua trả góp dt này bjo mới có hàng ạ
+3	10	Oppo f3 plus có fm rario k ạ
+10	2	Máy có sẵn ko ạ
+18	26	Minh dat mua may truoc de duoc nhan qua ma hom 1 4 ra nhan may ko co qua vay minh phai doi den bao gio moi co vay ban
+18	26	Tôi đã lấy máy nhưng chưa nhận được bộ quà sản phẩm như tai nghe đồng hồ Muốn hỏi bao giờ có quà thôi
+18	26	Bao giờ có quà tai nghe dây đeo tay vậy Mình mua F3 rồi nhưng chưa nhận dc quà ( Đã đặt hàng trước ) 
+2	8	Minh muon mua cha gop chu nhat cua hang co lam viec ko ah
+8	6	Minh dat muatra gop nhung minh ko mua tra gop nua ma tra thang thi minh duoc huong nhung di vay ban
+18	6	Ban cho minh hoi minh may thi duoc nhung qua di vay ban
+18	21	Ban ho minh hoi minh dat mua oppo f3plus ma ko lay qua thi co duoc chiet khau ko ban
+18	3	Chiếc này có to hơn f1s nhiều không vậy mình thấy 6inch nó to quá
+2	18	Mình thích màu hồng giờ lại chỉ có màu vang và đen liệu có đặt hàng được không ạ
+8	6	E oi a muon mua dt oppo f3 Tra gop va dac coc co duoc huong cac che do khuyen mai khg e A o quy nhon binh dinh 
+10	3	F3 plus co mỏng như f1 plus k shop 
+18	10	cho minh hoi oppof3 plus tang goi bao hiem roi vo may thang vay va co khang nuoc khang bui ko qtv
+18	22	Cho em hỏi khi nao bên mình mới có màu đen ạ
+18	15	Fptshop làm video giới thiệu sản phẩm cho F3 plus đi ạ
+18	22	Cho hoi oppo f3 bao gio ra
+20	18	Mình đặt trước 500k mùng 4lay van dc à qtv
+20	8	Có trả góp 0% ghi đặt trước không ạ
+18	6	Đc giam 1tr vao giá ko ban
+18	2	quận 7 samsung s7 edge còn màu bạc không vậy a và có chương trình khuyến mãi gì không xin cảm ơn 
+8	18	Ad cho mình biết giá thường ntn và giá khuyến mãi như thế nào mình có cmnd và bằng lái xe có trả góp dk ko
+6	2	máy màu hồng còn hàng ở gia nghĩa ko mua dc km những gì
+6	18	cho em hoi mua may s7 thi phu kien co nhung gi 
+18	6	màu khác không đc giảm hả shop
+18	2	bạn cho mình hỏi s7 egde màu vàng ngoài hà nội có bản nào 64G không 
+2	6	a5 2016 co giam 1trieu 700 ko shop
+18	10	Hang moi 100% phai ko shop
+10	18	galaxy s6 edge plus hàng chính hãng fpt có ký hiệu đuôi C hay đuôi j vậy ad ví dụ note 5 là SM-G920C vậy s6 edge plus là SM-G928C có phải là hàng chính hãng fpt ko 
+18	21	Shop ơi nếu mua s7 edge màu hồng thì được phiếu mua hàng 1 700 000 đ mình trừ vào giá luôn có được k 
+0	18	E dang dùng s7 edge bị vỡ kính h thay hết bn tiền ạ
+0	6	Cho mình hỏi phiên bản ngọc trai đen của s7e giờ là 16trieu990 vậy sau khi s8 ra liệu có đợt giảm giá nào ko ạ và sẽ giảm khoảng bao nhiêu mình ở tp hải dương 
+0	6	S7 edge mau hong co giam gia ko ak va gia hien tai la bao nhieu ak 
+18	10	S7edge có tính năng chống nước vậy vào nước có được bảo hành không
+18	10	Phiên ban 7 0 có ổn định hơn 6 0 hok anh Nge trên mấy diễn đàn nói pin nhanh hết hơn 6 0 tu vấn giùm e cái nha ae ạ
+18	20	minh muốn ban s7 edge moi mua thi dk bao nhieu shop
+18	2	Còn hàng ở quảng trị ko ạ nếu hết thì có thể liên hệ chi nhánh khác chuyển đến quảng trị ko mình muốn mua 1 chiếc 
+18	6	Cho mình hỏi từ trước tới giờ mình mua rất nhiều sản phẩm của fptshop bao gồm nhiều smartphone Vậy tài khoản của mình có tích điểm để giảm giá không 
+10	18	minh muon ha he dieu hanh máy s7 edge fpt co the ho trọ dc ko Xin cam on
+0	6	Vậy muốn mua màu vàng thì sao có được dảm giá ko
+18	20	Máy mình mua ở fptshop đc 3 tháng giờ bán lại cho shop đc bao nhiêu
+8	10	Máy này chống nước ko vậy mua trả góp vào buổi tối đc ko 18h
+10	18	sản phẩm giao về có như trên này ko
+18	10	Phần đặc điểm nổi bật của máy shop để là tấm nền IPS còn phần thông tin sản phẩm shop để là TFT Z máy là sử dụng tấm nền J z 
+6	0	1cái bnhiu tiền rồi có tặng gì hôg
+18	6	Thag 10 co qua tag j k ak
+18	6	Mua may co qua tang j ak
+18	30	Mua thang
+18	10	Shop cho e hỏi với chiếc này dùng hđh gì 
+18	8	Khi mua trả góp k dong ở cua hàng e muon bán lại luon có dược k
+2	18	cho mình hỏi vivo y55s có màu gì
+18	2	Cho minh hoi fpt o bien hoa dong nai co vivo y55 ko
+18	6	Máy này ở đâu sx vậy shop khi mua bên trong họp có tặng kèm bao da kh máy này chất tốt kh
+6	18	Chào shop ạ tui năm nay 41 tủi muốn mua góp đk kh có tặng kèm ốp lưng trong hộp kh máy xài tốt kh camera chụp hình đk chứ có khuyến mãi thẻ nhớ 16g kh chất lượng tốt kh v mong shop phản hồi
+6	18	Máy kh hỗ trợ chống va đập à có ốp lưng kh có khuyến mãi quà tặng thẻ nhớ j kh
+8	18	Máy này em ví dụ em muốn mua góp đk kh tháng góp nhiêu vậy bao nhiêu mới hết máy này sài tốt kh chụp hình đẹp kh bên trong có những gì xem phim chơi game đọc báo lướt fb tốt kh 
+10	18	Cho em hỏi đt vivo y55s này bao nhiêu % mới sạc pin ạ
+6	18	Qtv choi hỏi pin con này trâu ko ạ Nếu ko đặt hàng online mà ra shop mua thẳng có đc combo quà tặng và pmh 300k ko ạ
+2	18	FPT CO HO TRO ROOT MAY K TKS
+18	6	Lam the nao moi co the nhan dc ipad new 2017
+18	6	Minh moi mua lúc toi Quay so trung dc phan qua cai vali tri gia 600 ngan nek
+18	6	sd ơi bộ quà vivo khi mình quay là dc gồm loa tiểu gậy tự sướng và giá đỡ luôn hay tách dời ạ
+10	18	wiko u pulse dùng về lâu dài có bị đơ giống oppo ko ạ
+18	10	Wiko u pulse trên thang điểm của otutu thì dc bn vậy anh
+6	10	Nắp lưng dc làm bằng gi
+18	15	sao may doi quet ma QR la sao bo tay voi may
+6	0	Ad cho hỏi galaxy a7 2016 giá bao nhiêu và khuyến mại quà tặng cho khách gồm những gì 
+18	10	May choi lien quan co bi lag k ha qtv
+10	18	La mieng dan Cuong luc hay mieng dan thuong ha baan
+10	6	Bo san pham nay gom nhung gi vay QTV may nay co op lung khong shop
+18	15	Đã mua 8 ngày rôi mà vẫn chưa nhận đc đồng hồ
+18	22	Mình ở Phổ Yên Thái Nguyên shop ở đây hết hàng mình muốn đặt hàng thì bao giờ mới có vậy shop 
+18	2	o bp co hag k add
+18	10	Cho hoi may co ho tro 4g k a
+10	18	Máy chụp hình nhanh bằng J7pulse ko nhỉ
+0	4	minh o hai duong muon mua may qua mang thi tien ship hang la bao nhieu
+2	18	FPT co shop nao o campuchia ko ban
+18	2	Co may cu ko shop
+27	10	Con nay xuat xu o dau nhi
+18	10	Máy chơi game có ổn không Camera chụp hình trước chụp trong điều kiện thiếu ánh sáng thì như thế
+8	10	Qtv ơi cái wiko này có vân tay k Tôi muốn trả góp 
+10	18	Cho e hỏi may nay thuoc hang nao san xuat vay 
+18	6	sao quang cao ghi la co 50 suat tang vong tay thong minh ma lai k co vay ad
+3	18	Chip Snapdragon với chip MTK Chip nào đáng dùng hơn
+2	18	Bên shop có lop lưng wiko u feel k vây
+0	10	Mặt kính cong 2 5D phải k ạ
+6	18	Mình mua ONLINE được tặng quà là ốp lưng thông minh ! Vậy mình ra cửa hàng nhận chiếc điện thoại và có được tặng quà ốp lưng không quản trị viên Mình ra coi hàng nếu không mua thì có sao không 
+18	6	shop cho mình hỏi mình có đặt mua ngày 8 / 7 1 sản phẩm thì vào ngày đó có còn khuyến mãi vòng đeo tay hay không 
+18	6	Mua hinh thuc ben FFrien co dc tang op lung thong minh hok
+2	10	Sp có chống nc hk ad
+18	10	Nokia là hảng của nước nào vậy QTV
+2	18	Nokia 3 có ốp lưng chưa vậy ad
+6	18	Nen mua màu gì ad
+10	18	cho m hoi nokia 3 có op lung va kjnh cuong luc ko ak
+8	18	Cho hoi so phieu thu pbphone_numberphone_number dong tra gop hom 3-7 sao nhan vien ben ngan hang fe con goi nhac dong tien gop
+18	10	ad cho minh hoi ma may nokia 3 co tu dong ngung sac pin khi pin da day khong ! lam sao de tang tuoi tho cua pin khi moi mua may ve
+10	2	Máy này ở bảo lộc có ko vậy
+2	18	Có bán miếng dán cường lũ cho Nokia 3 ko ad
+18	2	Mình o vũ thư sang nay qa shop o lý bôn ci moi màu den minh muon mua màu trăng
+0	2	Nokia 5 het ban ha
+15	2	ơ shop lại k kinh doanh nokia 5 nữa ạk mà k thấy trên mục menu vậy 😇
+2	18	Cho hỏi có quầy trải nghiệm sản phẩm ở TPHCM ko 
+18	2	cho mình hởi ở Pleiku Gia Lai còn chiếc Lumia nào ko 
+10	18	Ad ơi cho mình hỏi máy Nokia 3 với dung lượng pin 2630mAh chơi game nặng như Liên Quân hay Tập kích có tụt pin nhanh không Hay chỉ có Nokia 5 6 mới chơi game nặng được 
+18	10	qtv kiểm tra giúp e xem 2 dòng máy nokia 3 và meizu u20 máy nào kết nối được với tivi ạk
+18	10	vậy ở viền máy k có cường lực ạ sao e xem tren mạng nó có ghi là kính cường lực bao quanh thân máy
+2	18	bắc ninh còn hàng ko vậy máy có pk dán màn hay ốp gì ko 
+10	18	ưu đãi gì vậy ad
+6	18	Cho mình hỏi giảm 700k còn 2 990 000₫ vậy có được giảm 3% nữa không ạ
+3	18	ủa QTV Mobiistar Prime X1 và Mobiistar Prime X 2017 giống nhau hả
+8	18	Giam 700 va them 3% vay con lai bao nhieu giam roi co duoc tra gop o%
+3	18	Băng tần 4G : LTE B3 khác gì so với LTE CAT1 CAT2 hả Ad 
+18	6	lúc tôi mua dien thoai chi dc tang 2 chai nuoc ngot thoi có dc tặng li xi 200k phụ kiện đâu vs có dc cơ hội vé xe khách gì đâu tôi mua ngày 20 / 1 / 2016
+6	18	e co ma giam gia ma khong co dt cu vay co duoc tham gia mua dt cu khong tra gop duoc khong 
+18	6	Đổi máy giảm 700k rồi có được giảm 3% từ thần tài không ạ
+18	6	Đổi máy có đựợc lì xì 200k phụ kiện không shop
+18	6	co ma doi may moi co dc khuyen mai j ko ad
+27	2	Huế còn hàng màu đen ko Ở đâu
+10	18	Cam bien van tay cua mobiistar prime x1 co phai loai 1 cham khong a
+15	18	Mình nhận đặt giữ máy tại fpt kon tum Nhân viên gọi điện cho mình bảo ở kon tum hết hàng ở kon tum vậy mình không thể mua máy được nữa à 
+18	6	Ninh thuận còn máy đổi được giảm 700k k ạ
+18	6	url mình xem trên đây là trong hộp có tặng 1 cái ốp lưng có thật vậy k QTV 
+21	18	Điện thoại bàn phím thường có thể tham gia vào chương trình đổi smartphone mới được ko
+18	15	em k có smartphone vậy có tham gia chuong trình " ĐỔI SMARTPHONE MỚI TẾT VỀ PHƠI PHỚI ” dc k 
+18	2	Ad cho hỏi Ỗ TÂY NINH có cửa hàng nào có máy màu Gold vậy Phụ kiện theo máy bao gồm những gi vậy Tks ad
+2	18	Máy bị hỏng có được đổi không qtv
+18	10	cho hoi mjnh o tien giang go cong tay co duoc tham gia doi may cu lay may moi khong va doi may o dau
+2	18	Nge shop trả lời thì cảm thấy yên tâm hơn chứ cũng mua onle một lần mà hàng quáu kém không nhưquảng cáo nên sợ Mà cho kiên hỏi ở 180 Thái Hoà còn prime x1 với jubo 2017 không 2 lọai máy có những màu nào
+18	10	Mình thấy máy hơi dày
+20	18	Mình đặt cọc máy 500k giờ k mua nữa có lấy đc tiền đặt cọc k 
+18	6	Giai thich mot chut cho minh ve CTKM cai thu 2 đi
+6	18	mình muốn mua con x1 và sac yoobao 10000mah thì phải trả bao nhiêu vì thấy cả 2 đều có khuyến mãi nên có được cộng dồn là 3050000 vnd ko 
+2	0	Xiaomi redmi note 4x ở FPT shop ở Bắc quang - hà giang giá bao nhiêu ạ Nếu có thì có màu gì 
+6	18	Ủa mới giảm giá à
+3	18	E hỏi giữa xiaomi redmi 4 với meizu m3s thì con nào xài ok hơn và ở yên fog bắc ninh còn hàg k
+8	18	gio mih mua tra truoc ođ gio nay con mua dx ko a chi
+10	18	may nay ko tra tien truoc dx ko may a chi
+0	18	Cho e hỏi màn hình meizu của e bị bể Có hàng để thay k ạ Nếu có thì bao nhiêu ạ
+2	18	465 quốc lộ13 phường hiệp bình phước quận thủ đức hàng m3s màu sám về chưa ạ e có gọi cho shop ma s nói k nghe măc dù vẫn dữ mic
+6	18	Hôm nay là Black Friday Sao FPT không khuyến mãi gì hết vậy 
+18	0	ở ngoài ghi 2tr5 kích vào thì 2tr9 ls ad
+18	0	Ở ngoài ghi 2tr590k kích vào thì 2tr990k ls ad
+2	4	Có ship về bưu điện tam quan bình định k ad
+0	18	shop có nhận thay mặt kính m3s ko ạ mình mua ở fpt còn hạn bảo hành ko may bị bể kính cảm ứng vẫn ngon vậy thì thay giá bao nhiêu ạ
+0	10	cho e hỏi bản màu xám mặt kính màu đen hay trắng vậy
+2	26	Cho hỏi đặt hàng về tam quan bìh định là khoãg bao lâu có hàng
+6	18	Giá giảm có đc đc áp dụng khuyến mãi trả góp 0% k vậy nhỉ
+2	22	Cho em hỏi chừng nào có hàng 
+2	18	s còn 25% pin lai tuột xuống 0% r tắt nguồn luôn s kì vậy a
+10	4	có ship ko
+18	0	máy bị rơi bể màn hình cảm ứng vẫn sử dụng dc bình thường sữa mất bao nhiu tiền ạ 
+2	18	Ad k có bảng mặt trước màu đen à
