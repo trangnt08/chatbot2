@@ -195,8 +195,9 @@ def test_file():
     y_pred = uni_big.predict(X_test)
     print " accuracy: %0.3f\n" % f1_score(y_test, y_pred, average='weighted')
     print "confuse matrix: \n", confusion_matrix(y_test, y_pred,
-                                                 labels=["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11",
-                                                         "12", "14", "15", "16", "17", "18","20", "21","22","23","24","25","26","27","30","31"])
+                                                 labels=["0", "2", "3", "4", "6","10",
+                                                         "15", "16", "18", "20", "21", "22",
+                                                         "24", "26", "27", "30", "31"])
     with open('result/fail7b.txt',"w") as f:
         list_y_test = test["label"].tolist()
         y_pred=y_pred.tolist()
